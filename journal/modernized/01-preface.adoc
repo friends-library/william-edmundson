@@ -1,4 +1,5 @@
-== Preface.By John Stoddard
+== Preface. By John Stoddard
+//^^ Does his name need to be here since it's signed below? I also noticed it's omitted in the original edition.
 
 Friendly Reader,
 
@@ -374,7 +375,8 @@ the gift of grace bestowed on you through Christ Jesus,
 that your latter end may be peace, and your future state eternal happiness.
 So in Christian love remain your well-wishing friend,
 
-John Stoddart.Dublin, the 26th of the Eighth month, 1714.
+[.signed-section-signature]
+John Stoddart
 
-[.asterism]
-'''
+[.signed-section-context-close]
+Dublin, the 26th of the Eighth month, 1714
