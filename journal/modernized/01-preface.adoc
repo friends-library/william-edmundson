@@ -1,5 +1,6 @@
-== Preface.By John Stoddard
+== Preface
 
+[.salutation]
 Friendly Reader,
 
 It has pleased Almighty God, in the riches of his love and mercy,
@@ -73,7 +74,7 @@ and openly triumphed over principalities and powers.
 Now the old covenant was to pass away, and the new covenant to be established,
 and the priesthood changed, by the great High Priest without sin,
 and higher than the heavens; made not after the law of a carnal commandment,
-but by the power of an endless life, a priest forever, after the order of Melchisedec.
+but by the power of an endless life, a priest forever, after the order of Melchizedek.
 The law was now to go forth of Zion, from the great Law-giver, and written in the heart,
 even the law of the spirit of life in Christ Jesus,
 that sets free from the law of sin and death.
@@ -97,7 +98,7 @@ but he was caught up unto God, and to his throne, from the great red dragon,
 that sought to devour him as soon as he was born.
 
 Then the woman, or true church, left, her visible glory, and fled into the wilderness,
-or obscure place, from the face of the serpent, into a place prepared of God.
+or obscure place, from the face of the serpent, into a place prepared of God,
 where she was nourished for a time, times, and half a time,
 or a thousand two hundred and threescore days, which, in a prophetic sense,
 is taken to be so many years.
@@ -374,7 +375,8 @@ the gift of grace bestowed on you through Christ Jesus,
 that your latter end may be peace, and your future state eternal happiness.
 So in Christian love remain your well-wishing friend,
 
-John Stoddart.Dublin, the 26th of the Eighth month, 1714.
+[.signed-section-signature]
+John Stoddart
 
-[.asterism]
-'''
+[.signed-section-context-close]
+Dublin, the 26th of the Eighth month, 1714
