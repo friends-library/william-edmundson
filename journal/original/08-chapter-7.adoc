@@ -1,10 +1,10 @@
-== Section VII.
+== Chapter VII
 
-Of the government, and Chancellor Boyle`'s clemency towards Friends,
-upon William Edmundson`'s petitioning them against G. Clapham`'s cruelty,
-then priest of Mount-melick.--Of his prophetic warning to the inhabitants of Londonderry;
-and conference afterwards with the bishop and mayor of that place;
-and the settling of meetings for Discipline in Ireland, by George Fox, in 1669.
+[.chapter-synopsis]
+* The government and Chancellor Boyle`'s clemency towards Friends, upon William Edmundson`'s petitioning them against G. Clapham`'s cruelty, then priest of Mount-melick
+* Prophetic warning to the inhabitants of Londonderry
+* Conference afterwards with the bishop and mayor of that place
+* Settling of meetings for Discipline in Ireland, by George Fox, in 1669
 
 1665+++.+++ Having my liberty,
 I found a concern on my mind to solicit the government
@@ -68,7 +68,7 @@ Another time this priest Clapham indicted several
 Friends of our meeting at the assizes at Maryborough,
 and me for being at a meeting on such a day, which he called an unlawful assembly;
 and for not being at church, as he called it, on the same day.
-Lie also indicted me for not paying a levy,
+He also indicted me for not paying a levy,
 or assessment towards the repairs of his worship-house,
 though the wardens and constable had before taken from me, for the same,
 a mare worth three pounds ten shillings.
@@ -121,7 +121,7 @@ They were gone to their worship at the cathedral, and I was moved of the Lord to
 When I came to the door, the man who used to ring the bells met me,
 and took me by the hand, and led me near the pulpit, where the bishop was preaching.
 He thought he had got a Presbyterian convert, and did not take off my hat,
-until he saw the people gaze at me, observing which, he took my hat off* and laid it by.
+until he saw the people gaze at me, observing which, he took my hat off and laid it by.
 I stood there until the bishop had done preaching; the people`'s eyes were on me,
 and I spoke what the Lord gave me to say, warning them to repent,
 or the Lord would bring a scourge over them, and scale their walls without a ladder.
@@ -198,8 +198,8 @@ I went from the mayor, and beginning near Water-gate,
 sounded the Lord`'s message through the streets; it was dreadful to the people,
 and several ran as if before naked swords.
 As I came near the main guard, a soldier being at the door mocked,
-but in the dread of the Lord`'s power I looked in at the guard-house door, and cried.
-Soldiers! all repent.
+but in the dread of the Lord`'s power I looked in at the guard-house door, and cried,
+"`Soldiers! All repent.`"
 The soldiers on the guard were smitten, as men affrighted,
 for the power of the Lord was mighty, in which I performed this service;
 and when I had done, I put a paper on the gates, as the Lord moved me.
@@ -224,10 +224,10 @@ And thus the warning before given them was fulfilled.
 
 In the year 1609, George Fox came to Ireland,
 and several Friends in the ministry with him.
-Me settled men`'s and women`'s meetings among Friends throughout the nation,
+He settled men`'s and women`'s meetings among Friends throughout the nation,
 that faithful men and women should take care in the government of church affairs,
 among our own Society, which meetings are of great service.
-I was much cased by them, as I told George Fox at that time,
+I was much eased by it, as I told George Fox at that time,
 for I had a great concern in those things,
 which had lain heavy upon my spirit for several years before;
 and this gave every faithful Friend a share of the burthen.

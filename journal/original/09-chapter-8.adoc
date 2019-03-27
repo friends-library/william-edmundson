@@ -1,9 +1,8 @@
-== Section VIII.
+== Chapter VIII
 
-Of his various travels, perils and exercises, both by sea and land in America,
-whither he went in the service of the Gospel,
-in 1671.--Of the vision he had in his return,
-concerning an approaching scarcity for two years; though then a time of plenty.
+[.chapter-synopsis]
+* His various travels, perils and exercises, both by sea and land in America, whither he went in the service of the Gospel, in 1671
+* The vision he had in his return, concerning an approaching scarcity for two years; though then a time of plenty
 
 In the year 1671, I had movings upon my spirit to travel to the West Indies,
 which thing had remained with me for some time.
@@ -91,7 +90,7 @@ and coming so far as we had done to visit our countrymen,
 could not be admitted to go on shore, to refresh ourselves,
 within King Charles`' dominions, after such a long voyage.
 Colonel Stapleton said it was true, but, said he,
-we hear that since your coming to the Caribbee Islands,
+we hear that since your coming to the Caribbee-Islands,
 there are seven hundred of our militia turned Quakers; and the Quakers will not fight,
 and we have need of men to fight, being surrounded by enemies,
 and that is the very reason why Governor Wheeler will not suffer you to come ashore.
@@ -177,7 +176,7 @@ for my clothes were wet to my skin.
 I had eaten little or nothing that day, neither had I anything to refresh me but the Lord.
 In the morning I returned to seek my two companions,
 and found them lying by a great fire of wood.
-I told them how I had fared; an.d he that should have been the guide,
+I told them how I had fared; and he that should have been the guide,
 would have persuaded me that we were gone past the place where we intended;
 but my mind drew to the path which I had found the night before.
 So I led the way, and that path brought us to the place where we intended, viz:
@@ -232,7 +231,7 @@ and had comfortable meetings with Friends, and travelled thirty miles above Jame
 to a place called Green-springs, where were several convinced people.
 A meeting had been settled there, but was lost,
 the people being stumbled in their minds and scattered
-by the evil example of one Thomas Ncwhouse,
+by the evil example of one Thomas Newhouse,
 who had been a preacher among them,
 and went from truth into the uncleanness of the world.
 I got them together and settled a meeting; they were glad thereof and much comforted,

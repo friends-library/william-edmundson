@@ -1,9 +1,9 @@
-== Section XXIII.
+== Chapter XXIII
 
-In 1702, he goes over to the Yearly Meeting at London.
-After his return, he visits Ulster in company with G. R.;
-then writes to the bishop of Kildare,
-in behalf of Friends`' school-master at Mount-melick.
+[.chapter-synopsis]
+* In 1702, he goes over to the Yearly Meeting at London
+* After his return, he visits Ulster in company with G. R.
+* Writes to the bishop of Kildare in behalf of Friends`' school-master at Mountmelick
 
 The time of our National Meeting at Dublin approaching, I went there in the third month,
 1702, where was a great appearance of Friends from several parts of the nation.
@@ -70,14 +70,18 @@ also his power healed me of my illness,
 so that I was well and strong to answer the Lord`'s service.
 Having travelled therein about three hundred miles in about five weeks, I returned home.
 
-Before I took that journey.
+Before I took that journey,
 Friends`' schoolmaster, who taught their children at Mountmelick,
 had been cited several times to the bishop`'s court,
 and was likely to be excommunicated for teaching school without the bishop`'s license,
 and I having some acquaintance with the bishop, wrote the following letter,
 and sent it to him:
 
-May it please the bishop.
+[.embedded-content-document.address]
+--
+
+[.salutation]
+May it please the bishop,
 
 This comes as an address in the behalf of a friend of mine,
 who teaches our children at Mount-melick, for which, and no other cause of offence,
@@ -126,23 +130,24 @@ And now the Lord being highly provoked by wickedness of all sorts, I say,
 if he in justice should again bring his scourge and overflowing tempest over this nation,
 we must suffer with the Protestants; for we can flee to no people but to them:
 So what you do against us, you do against yourselves,
-and pull the house down with your own hands, contracting troubled to yourselves,
+and pull the house down with your own hands, contracting trouble to yourselves,
 by troubling us.
 For if you excommunicate us,
 and throw us into prison upon the account of our consciences, you must release us again;
 or if we die in prison upon the account of a tender conscience,
 it will be charged to him or them who are the cause of it;
 and I am sure it is the principle of the right church of Old England,
-who are not biassed with self-interest, not to imprison people upon conscience,
+who are not biased with self-interest, not to imprison people upon conscience,
 and much less a man for teaching children to read the
 holy Scriptures and good books tending to virtue.
 
-I have a secret belief, that you hast no delight or inclination,
+I have a secret belief, that you have no delight or inclination,
 that people should be cast into prison on such accounts,
 which makes me the more willing to let you know the
 proceedings of your officers in court against our said friend,
 desiring you to read this, and so leave it to your discretion, and the issue to the Lord.
 
+[.postscript]
 Postscript:
 
 A worthy saying of Bishop Boyle, called Primate of Ireland,
@@ -154,3 +159,5 @@ And that noble and worthy Prince, King William, in his speech to the parliament,
 "`That differences of names among Protestants might be taken away,
 and no other distinction of religion exist among his subjects,
 but Protestants and Papists.`"
+
+--

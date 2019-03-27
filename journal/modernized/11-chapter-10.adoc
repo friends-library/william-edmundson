@@ -1,10 +1,9 @@
-== Section X.
+== Chatper X
 
-Of the just judgment of God upon George Clapham, the cruel priest.
-In 1682, William Edmundson was excommunicated,
-and had a public conference with the bishop, in his court, about tithes.
-Gospel ministers, worship, etc.
-Of his voyage to the West Indies, in 1683.
+[.chapter-synopsis]
+* The just judgment of God upon George Clapham, the cruel priest
+* In 1682, William Edmundson was excommunicated, and had a public conference with the bishop, in his court, about tithes, gospel ministers, worship, etc.
+* His voyage to the West Indies, in 1683
 
 There being sometimes occasion to appeal to the
 government in behalf of Friends and truth,
@@ -57,7 +56,7 @@ And my understanding was clear, ripe and ready,
 through the assistance of the Lord`'s blessed spirit, to answer to matters;
 so that they could not resist what I said.
 The bishop himself was silent; then I told him I thought my suffering was illegal,
-for that the clause in the statute of Henry the VIII.,
+for that the clause in the statute of Henry the VIII,
 by which they had proceeded against me, did not take hold of me;
 and if a moderate unbiassed judge had the ministering of the law,
 he might have found that I was not the man it took hold of.

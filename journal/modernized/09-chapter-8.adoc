@@ -1,9 +1,8 @@
-== Section VIII.
+== Chapter VIII
 
-Of his various travels, perils and exercises, both by sea and land in America,
-where he went in the service of the Gospel, in 1671.
-Of the vision he had in his return, concerning an approaching scarcity for two years;
-though then a time of plenty.
+[.chapter-synopsis]
+* His various travels, perils and exercises, both by sea and land in America, where he went in the service of the Gospel, in 1671
+* The vision he had in his return, concerning an approaching scarcity for two years; though then a time of plenty
 
 In the year 1671, I had movings upon my spirit to travel to the West Indies,
 which thing had remained with me for some time.
@@ -14,14 +13,14 @@ confirmation and satisfaction.
 When the service of the meeting was over,
 I parted there with my wife and Friends in much tenderness,
 under a heavenly sense of the Lord`'s presence; took shipping, and landed near Liverpool.
-From there I travelled to London, and came there on the first day of the Yearly Meeting,
+From there I traveled to London, and came there on the first day of the Yearly Meeting,
 and abode until the meeting was over.
 I also stayed some weeks visiting Friends in their meetings.
 
 Several Friends in the ministry were there,
 ready to go to the West Indies in truth`'s service, namely: George Fox, Thomas Briggs,
 John Stubbs, James Lancaster, Robert Widders and others.
-We went together in one vessel, bound for Jamaica, but intended to touch at Barbadoes.
+We went together in one vessel, bound for Jamaica, but intended to touch at Barbados.
 We had many precious comfortable meetings aboard the ship,
 but in our voyage were chased by a pirate, a Salleeman,
 which in a moonlight night came up with us, and was ready to board us,
@@ -30,7 +29,7 @@ and a fresh gale of wind out of the cloud carried us clear away.
 Thus the Lord eminently saved us out of their hands,
 and we were afterwards certainly informed who he was.
 
-Several of us landed in Barbadoes, in the eighth month, 1671, and James Lancaster,
+Several of us landed in Barbados, in the eighth month, 1671, and James Lancaster,
 John Cartwright and George Pattison went in the ship to Jamaica.
 At Barbadoes we had great service for the Lord and the good of the people;
 many were convinced and turned to the Lord, and brought into the way of life and peace.
@@ -91,7 +90,8 @@ and coming so far as we had done to visit our countrymen,
 could not be admitted to go on shore, to refresh ourselves,
 within King Charles`' dominions, after such a long voyage.
 Colonel Stapleton said it was true, but, said he,
-we hear that since your coming to the Caribbee Islands,
+we hear that since your coming to the Caribbean Islands,
+
 there are seven hundred of our militia turned Quakers; and the Quakers will not fight,
 and we have need of men to fight, being surrounded by enemies,
 and that is the very reason why Governor Wheeler will not allow you to come ashore.
@@ -99,12 +99,12 @@ and that is the very reason why Governor Wheeler will not allow you to come asho
 By the order of the governor we were carried back to Antigua,
 where we were received with gladness and had great service,
 many of all sorts flocked to meetings, and generally confessed to the truth.
-When our spirits were clear of the service in that island, we returned to Barbadoes.
+When our spirits were clear of the service in that island, we returned to Barbados.
 
 My companion, Thomas Briggs, being taken very sick.
 Colonel Winthrop took us to Barbadoes in his own vessel, and went along with us,
 he having received the truth in the love of it.
-When we came to Barbadoes, Friends were glad,
+When we came to Barbados, Friends were glad,
 and George Fox was there in the Lord`'s service.
 We had many large precious meetings,
 the Lord`'s power and presence accompanied his testimony and work committed to us;
@@ -113,10 +113,10 @@ and many were brought into the way of life and peace with God.
 When we were clear in our service, we took shipping for Jamaica, namely: George Fox,
 Robert Widders, Solomon Eccles, Elizabeth Hooton and I,
 and after being about ten days at sea, we landed at Port Royal in Jamaica.
-We travelled much in that island,
+We traveled much in that island,
 and had good service in gathering people to the Lord Jesus Christ,
 and settling meetings among them.
-James Lancaster and I travelled over an eminence called Mount Diabolo,
+James Lancaster and I traveled over an eminence called Mount Diabolo,
 to the north side of the island,
 where the people received us gladly and came to meetings,
 several were convinced and received the truth;
@@ -144,16 +144,16 @@ When the storm ceased, Friends hearing of us, came in a boat and fetched us asho
 Here we met with John Burnyeat ready to take shipping for England.
 We had several large heavenly meetings, and the Lord`'s power and presence were with us,
 to our great comfort.
-Then we travelled severally in our services, as the Lord ordered us.
+Then we traveled severally in our services, as the Lord ordered us.
 George Fox, John Burnyeat, and several other Friends accompanying them,
-travelled to New England.
+traveled to New England.
 I took boat and went to Virginia, where things were much out of order;
 but the Lord`'s power and testimony went over all.
 When I had got several powerful meetings among them and their minds a little settled,
 so that truth had got some hold,
 I appointed a men`'s meeting for settling them in the way of truth`'s discipline.
 
-Afterwards, it being upon me, I travelled to Carolina, and two Friends accompanied me,
+Afterwards, it being upon me, I traveled to Carolina, and two Friends accompanied me,
 it being all wilderness and no English inhabitants or path-ways,
 but some marked trees to guide people.
 The first day`'s journey we did pretty well, and lay that night in the woods,
@@ -163,7 +163,7 @@ and one of the two who were with me for a guide,
 was at a stand to know which way the place lay we were to go to.
 I perceiving he was at a loss, turned my mind to the Lord, and as he led me,
 I led the way.
-So we travelled in many difficulties until about sunset; then they told me,
+So we traveled in many difficulties until about sunset; then they told me,
 they could travel no farther; for they both fainted, being weak-spirited men.
 I bid them stay there, and kindle a fire, and I would ride a little farther,
 for I saw a bright horizon appear through the woods,
@@ -177,7 +177,7 @@ for my clothes were wet to my skin.
 I had eaten little or nothing that day, neither had I anything to refresh me but the Lord.
 In the morning I returned to seek my two companions,
 and found them lying by a great fire of wood.
-I told them how I had fared; an.d he that should have been the guide,
+I told them how I had fared; and he that should have been the guide,
 would have persuaded me that we were gone past the place where we intended;
 but my mind drew to the path which I had found the night before.
 So I led the way, and that path brought us to the place where we intended, namely:
@@ -227,12 +227,12 @@ the governor being a very peevish man, and much set against truth and Friends.
 
 Friends desired to have another men`'s meeting before I left those parts;
 so we appointed another, the time and place being mentioned.
-In the mean time I travelled to several places in that country,
-and had comfortable meetings with Friends, and travelled thirty miles above James-town,
+In the mean time I traveled to several places in that country,
+and had comfortable meetings with Friends, and traveled thirty miles above Jamestown,
 to a place called Green-springs, where were several convinced people.
 A meeting had been settled there, but was lost,
 the people being stumbled in their minds and scattered
-by the evil example of one Thomas Ncwhouse,
+by the evil example of one Thomas Newhouse,
 who had been a preacher among them,
 and went from truth into the uncleanness of the world.
 I got them together and settled a meeting; they were glad thereof and much comforted,
@@ -278,10 +278,10 @@ The Major General replied, he was glad to hear there was such care and order amo
 and wished it had been so with others.
 He further said he was a man of great estate, and many of our Friends were poor men,
 therefore he desired to contribute with them.
-He likewise asked me how I was treated by the governor?
+He likewise asked me how I was treated by the governor,
 having heard that I was with him.
 I told him that he was brittle and peevish, and I could get nothing fastened on him.
-He asked me if the governor called me dog, rogue, etc.? I said, no, he did not call me so.
+He asked me if the governor called me dog, rogue, etc. I said, no, he did not call me so.
 Then said he, you took him in his best humour,
 those being his usual terms when he is angry,
 for he is an enemy to every appearance of good.
@@ -303,7 +303,7 @@ we lodged at a Dutch woman`'s house, who kept an inn.
 I was moved of the Lord to get a meeting in that town,
 for there had not been one there before;
 so I spoke to the woman of the house to let us have a meeting, who was very willing,
-and let us have a large dining-room, furnished with seats.
+and let us have a large dining room, furnished with seats.
 We gave notice thereof, and had a large and good meeting, some of the chief officers,
 magistrates and leading men of the town being at it, who were very attentive,
 the Lord`'s power being over them all.
@@ -369,7 +369,7 @@ So he went on, as he had done at Newport, in Rhode Island.
 We answered to all his charges against Friends, and disproved them.
 
 The prejudiced man was silenced; and then the professors desired to know our belief,
-what the soul of man was made of?
+what the soul of man was made of.
 I told them, I believed what the Scriptures said, that when God made man,
 he breathed into him the breath of life, and he became a living soul;
 and that it was sufficient for me to know Christ Jesus who redeemed my soul.

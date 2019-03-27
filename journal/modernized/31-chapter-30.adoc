@@ -1,7 +1,8 @@
-== Section XXX.A Supplement
+== Chapter XXX. A Supplement
 
-Containing several weighty expressions of William Edmundson on his death bed,
-with a brief account of his death and burial.
+[.chapter-synopsis]
+* Several weighty expressions of William Edmundson on his death bed
+* A brief account of his death and burial
 
 This worthy elder, after his return home, attended meetings thereaway,
 while of ability of body; also read over his journal and other papers,

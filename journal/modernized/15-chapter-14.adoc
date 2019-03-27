@@ -1,9 +1,9 @@
-== Section XIV.
+== Chapter XIV
 
-In 1694, William Edmundson goes to the Yearly Meeting at London,
-having many comfortable meetings in several shires in England,
-and in several counties in Ireland after his return there.
-Also his conference with Dean Reader, concerning tithes, etc.
+[.chapter-synopsis]
+* In 1694, William Edmundson goes to the Yearly Meeting at London
+* Many comfortable meetings in several shires in England, and in several counties in Ireland after his return there
+* His conference with Dean Reader, concerning tithes, etc.
 
 In the year 1694, it was with me to go to London, to the Yearly Meeting;
 so I went first to Dublin to our National Half-year`'s Meeting,
@@ -45,7 +45,7 @@ there John Pim left me, and went towards Chester, intending for Ireland.
 
 Being moved of the Lord to turn towards York, I sent to Roger Haydock,
 who came to me at Manchester, and went with me to York.
-As we went we had a meeting at Leeds, which was full and largo,
+As we went we had a meeting at Leeds, which was full and large,
 where the Lord`'s heavenly presence was with us,
 and Friends`' hearts were comforted therein.
 From there we went to York, and it was men Friends`' Quarterly Meeting,
@@ -167,7 +167,7 @@ and to take their leave of me, both being ancient Friends.
 We stayed the first-day meeting, which was very large and full;
 many Friends of other meetings came there,
 and the Lord answered their labour and good desires,
-in blessing our meeting with the openings and`' overflowings of his word of life;
+in blessing our meeting with the openings and overflowings of his word of life;
 it was an opportunity of consolation and sweetness.
 After which we took leave one of another in the
 love of God and comfort of his holy Spirit.

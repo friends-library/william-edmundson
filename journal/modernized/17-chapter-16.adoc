@@ -1,9 +1,8 @@
-== Section XVI.
+== Chapter XVI
 
-In 1696, William Edmundson writes to Friends at London, being unable to go there;
-visits Ulster province, and deliberates about marrying again:
-Also has hard exercise by a selfish worldly spirit,
-the danger whereof he describes by an apt parable.
+[.chapter-synopsis]
+* In 1696, William Edmundson writes to Friends at London, being unable to go there; visits Ulster province, and deliberates about marrying again
+* Has hard exercise by a selfish worldly spirit, the danger whereof he describes by an apt parable
 
 About three weeks after was our National Half-year`'s Meeting at Dublin,
 which began the 8th day of the third month, 1696,
@@ -62,7 +61,7 @@ the Lord`'s power and presence being with us to our great comfort and confirmati
 The service of this meeting being over,
 the aforesaid two Friends from Dublin returned home,
 and I with the rest of my company went over the river Band,
-and had many heavenly comfortable meetings at several places, as at Lurgan, BaUinderry,
+and had many heavenly comfortable meetings at several places, as at Lurgan, Ballinderry,
 Lisnegarvy, Grange, etc.
 In our return we had a precious meeting with Friends at Lurgan before parting,
 in which we were comforted and refreshed together to our great satisfaction.
@@ -112,7 +111,7 @@ the widow of Joshua Strangman, about the age of forty-nine years,
 whom I had ground to believe would be a comfort to me, and helpful in my family,
 being a woman of good understanding and one who feared the Lord.
 
-After same time of consideration, she consented thereto,
+After some time of consideration, she consented thereto,
 provided our children and Friends were satisfied therewith.
 I also acquainted her, that if the Lord gave me health and ability,
 I must first go for England to perform some service for Him there,
