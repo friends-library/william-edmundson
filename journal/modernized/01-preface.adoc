@@ -1,6 +1,6 @@
-== Preface. By John Stoddard
-//^^ Does his name need to be here since it's signed below? I also noticed it's omitted in the original edition.
+== Preface
 
+[.salutation]
 Friendly Reader,
 
 It has pleased Almighty God, in the riches of his love and mercy,

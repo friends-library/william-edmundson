@@ -1,5 +1,6 @@
-== Preface.
+== Preface
 
+[.salutation]
 Friendly Reader,
 
 It hath pleased Almighty God, in the riches of his love and mercy,
