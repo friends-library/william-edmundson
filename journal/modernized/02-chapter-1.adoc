@@ -1,6 +1,8 @@
-== Journal of the Life of William Edmundson.Section I.
+== Journal of the Life of William Edmundson. Section I.
+//Instead of this saying "secton I." do you want it to say Chapter 1? And no Roman numeral? Or are these ones okay?
 
 Giving an account of his birth, parentage, trade, marriage, convincement, etc.
+//^^Does this need to have any subtitle syntax or whatever? It seems to be summarizing the chapter, but I couldn't find anything that fit it in the style guide. Maybe a secondary heading? Idk.
 
 I WAS born at Little-Musgrove in Westmoreland, in the north of England, in the year 1627:
 my father`'s and mother`'s names were John and Grace Edmundson.
