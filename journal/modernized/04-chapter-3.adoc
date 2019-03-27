@@ -62,6 +62,9 @@ of the openness among people in the north of that nation, to hear the truth decl
 and of the lack of ministering Friends in the Gospel there.
 He wrote the following epistle to Friends, which he sent with me:
 
+[.embedded-content-document.epistle]
+--
+
 Friends, in that which convinced you, wait,
 that you may have that removed you are convinced of; and all my dear Friends,
 dwell in the life, and love, and power and wisdom of God, in unity one with another,
@@ -69,6 +72,8 @@ and with God; and the peace and wisdom of God fill all your hearts,
 that nothing may rule in you but the life, which stands in the Lord God.
 
 G+++.+++ F.
+
+--
 
 He bid me, when I came to Ireland, go to Edward Burrough and Francis Howgill,
 for they were in the south of that kingdom in the service of truth.
@@ -209,8 +214,8 @@ after which they left him that night.
 
 The next morning early, being the first day of the week,
 Colonel Kerr came into the priest`'s room, and asked him,
-what was the meaning of the apostle John`'s speaking so much of abiding in Christ?
-and how we must abide in Christ?
+What was the meaning of the apostle John`'s speaking so much of abiding in Christ?
+And how we must abide in Christ?
 The priest did not answer him, therefore he was under trouble and dissatisfaction.
 At this the Lord moved me to rise, put on my clothes,
 and speak to the priest as he went to his worship,
@@ -235,6 +240,7 @@ for I felt the Lord`'s power strengthening me.
 
 So he went out of the room;
 and this was but an apology to get an opportunity for the priest and
+//Should apology be changed to excuse in the modernized?
 several of their elders and disputants to run me down,
 and to glory over truth and Friends.
 I got up and dressed myself; and presently the priest, Colonel Kerr,
@@ -246,7 +252,8 @@ and he was pleased to fill me with his spirit, being mouth and wisdom to me;
 so that the Lord`'s power, and the testimony of his blessed truth was over them;
 the priest was confounded in himself, and being restless,
 went out and came in several times.
-When the priest had done.
+When the priest had done,
+//change to "was done"^^ in modernized?
 Colonel Cunningham began with me; he was a justice of the peace and a great disputant.
 We discoursed of several things, too tedious to mention the particulars;
 but the Lord`'s power foiled him, his mouth was stopped and he sat silent.
