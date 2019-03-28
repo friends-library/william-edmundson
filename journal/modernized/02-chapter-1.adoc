@@ -1,10 +1,9 @@
-== Journal of the Life of William Edmundson. Section I.
-//Instead of this saying "secton I." do you want it to say Chapter 1? And no Roman numeral? Or are these ones okay?
+== Chapter I
 
-Giving an account of his birth, parentage, trade, marriage, convincement, etc.
-//^^Does this need to have any subtitle syntax or whatever? It seems to be summarizing the chapter, but I couldn't find anything that fit it in the style guide. Maybe a secondary heading? Idk.
+[.chapter-synopsis]
+* An Account of His Birth, Parentage, Trade, Marriage, Convincement, etc.
 
-I WAS born at Little-Musgrove in Westmoreland, in the north of England, in the year 1627:
+I was born at Little-Musgrove in Westmoreland, in the north of England, in the year 1627:
 my father`'s and mother`'s names were John and Grace Edmundson.
 My father was well esteemed among men who were acquainted with him,
 and religious in what he knew.
@@ -83,9 +82,7 @@ and would often speak of the people called Quakers,
 and say their principles were the truth,
 hearing the priest boast of his abusive behaviour to the said two women,
 answered and said,
-"`It was a poor victory he had gotten over two poor women;`"
-//There aren't quotations in the PDF, but this seems like a direct quote to me. Also on line 94
-
+"`It was a poor victory you have gotten over two poor women;`"
 at which the priest was very angry, and began to storm.
 My spirit rose against him; I started up from my seat,
 and asked the priest and them with him, if they came to quarrel,

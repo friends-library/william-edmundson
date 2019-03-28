@@ -1,6 +1,7 @@
-== Journal of the Life of William Edmundson. Section I.
+== Chapter I
 
-Giving an account of his birth, parentage, trade, marriage, convincement, etc.
+[.chapter-synopsis]
+* An Account of His Birth, Parentage, Trade, Marriage, Convincement, etc.
 
 I WAS born at Little-Musgrove in Westmoreland, in the north of England, in the year 1627:
 my father`'s and mother`'s names were John and Grace Edmundson.
@@ -81,11 +82,10 @@ and would often speak of the people called Quakers,
 and say their principles were the truth,
 hearing the priest boast of his abusive behaviour to the said two women,
 answered and said,
-"`It was a poor victory he had gotten over two poor women;`"
+It was a poor victory he had gotten over two poor women;
 at which the priest was very angry, and began to storm.
 My spirit rose against him; I started up from my seat,
 and asked the priest and them with him, if they came to quarrel?
-//^^I left the question mark after quarrel in the original because it's in the PDF...seems an old way of indirectly quoting someone?
 saying, if they did, they should have enough.
 The priest answered.
 "`No, not with you sir.`"
