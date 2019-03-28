@@ -3,8 +3,8 @@
 [.chapter-synopsis]
 * Several Ministering Friends From England
 * His Imprisonment at Londonderry
-* His Deep Exercise On Account of Some Loose Professors of Truth
-* The General Persecution Then Raging Against Friends and How Instrumental He Was In Allaying That Storm.
+* His Deep Exercise on Account of Some Loose Professors of Truth
+* The General Persecution Then Raging Against Friends; and How Instrumental He Was in Allaying That Storm.
 
 About this time several Friends in the ministry came from England,
 labouring in the Gospel of Christ Jesus, namely: Thomas Loe, John Burnyeat,
@@ -37,7 +37,6 @@ for their minister was much set against the Quakers,
 and himself was an elder of their church.
 After some discourse of religion, we parted lovingly; I travelled on,
 and that night lay at an ale-house.
-//^^This is another tricky paragraph. Line 32 might need changing.
 
 The next day I came to Londonderry; it was market-day,
 and there were stage-players and rope-dancers in the market-place,
@@ -92,7 +91,6 @@ wills and flesh and held the profession of truth in unrighteousness.
 I could not get from under this burden,
 until it pleased God to send his servant George Fox,
 to set up men`'s and women`'s meetings, and then I was eased; of which hereafter.
-//Is the "of which hereafter" above okay? It was marked in the book.
 
 1661+++.+++ King Charles coming in, the nation was in heaps of confusion,
 and people ran upon us as if they would have destroyed us at once, or swallowed us up,
