@@ -1,15 +1,16 @@
-== Section VI.
+== Chapter VI.
 
-Of several ministering Friends from England--His imprisonment at
-Londonderry--His deep exercise on account of some loose professors of
-truth--Of the general persecution then raging against Friends;
-and how instrumental he was in allaying that storm.
+[.chapter-synopsis]
+* Several Ministering Friends From England
+* His Imprisonment at Londonderry
+* His Deep Exercise On Account of Some Loose Professors of Truth
+* The General Persecution Then Raging Against Friends and How Instrumental He Was In Allaying That Storm.
 
 About this time several Friends in the ministry came from England,
 labouring in the Gospel of Christ Jesus, namely: Thomas Loe, John Burnyeat,
 Robert Lodge and some others, and many were turned to the Lord,
 and to the knowledge of his way of life and peace.
-I often travelled into the north in the service of tinith, to Cavan, Belturbet, Newtown,
+I often travelled into the north in the service of truth, to Cavan, Belturbet, Newtown,
 Omagh, Strabane, Londonderry and those parts,
 and went through many hardships and dangers, being often in prison;
 yet the Lord`'s powerful arm preserved me, and carried me through them all;
@@ -20,22 +21,23 @@ also at Londonderry several were convinced of the truth.
 
 At one time I travelled from Strabane into the county of Donnegal,
 which is mostly inhabited by Scotch people, being Presbyterians.
-I was moved to ride from house to house and ask if there were any that feared God?
+I was moved to ride from house to house and ask if there were any that feared God.
 They looked strangely at me,
 and wondered I should ask such a question of such religious people.
 I came to one house and called, and the master of the house came out:
-I asked him if there were any who feared God there?
-he said, he hoped so.
+I asked him if there were any who feared God there.
+He said he hoped so.
 I told him I was seeking a people that feared God.
-He said it was a good errand; and asked where I dwelt, and my name?
+He said it was a good errand; and asked where I dwelt, and my name.
 I told him: he said, he was an Edmundson; and bid me alight and come into his house.
 I asked him if he would let me have a meeting in his house,
-and tell his neighbours and friends of it?
+and tell his neighbours and friends of it.
 He said he perceived I was a Quaker, and he dared not do it,
 for their minister was much set against the Quakers,
 and himself was an elder of their church.
 After some discourse of religion, we parted lovingly; I travelled on,
 and that night lay at an ale-house.
+//^^This is another tricky paragraph. Line 32 might need changing.
 
 The next day I came to Londonderry; it was market-day,
 and there were stage-players and rope-dancers in the market-place,
@@ -90,6 +92,7 @@ wills and flesh and held the profession of truth in unrighteousness.
 I could not get from under this burden,
 until it pleased God to send his servant George Fox,
 to set up men`'s and women`'s meetings, and then I was eased; of which hereafter.
+//Is the "of which hereafter" above okay? It was marked in the book.
 
 1661+++.+++ King Charles coming in, the nation was in heaps of confusion,
 and people ran upon us as if they would have destroyed us at once, or swallowed us up,
