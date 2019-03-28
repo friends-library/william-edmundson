@@ -1,5 +1,6 @@
 == Chapter V
 
+[.chapter-synopsis]
 * His Hard Imprisonment at Cavan in a Nasty Dungeon
 * His Speech in Public Court
 * His Release and Removal Afterwards to Rossenallis
