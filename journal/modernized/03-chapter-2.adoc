@@ -1,7 +1,7 @@
 == Section II.
 
-Reciting several difficult exercises he went through, both inwardly and outwardly,
-between his convincement and the setting up of a public meeting at Lurgan.
+[.chapter-synopsis]
+* Several Difficult Exercises He Went Through, both Inwardly and Outwardly, between His Convincement and the Setting Up of a Public Meeting at Lurgan
 
 While I was at sea, self reasoned strongly to save the duty on my goods,
 for I had an opportunity to do it,
@@ -11,7 +11,7 @@ But I dared not do it, my conscience being awakened to plead for truth,
 justice and equity; yet there was a great contest between conscience and self,
 and in this conflict many Scriptures were opened in my understanding,
 that duties and customs ought to be paid; and though self struggled hard for mastery,
-jet at last was overthrown, and the judgment of truth prevailed.
+yet at last was overthrown, and the judgment of truth prevailed.
 
 I landed at Carrickfergus, where a trooper readily lent me his horse,
 and I rode that evening home to Antrim, where my wife lived.
@@ -135,7 +135,7 @@ serve no purpose besides flattering the fleshly man. ]
 Keeping to one price in selling goods, and to the first asking without abatement,
 was a great stumbling-block to most sorts of people,
 and made them stand at a distance from buying for some time,
-until they saw further into the justice thereof
+until they saw further into the justice thereof.
 All things were rough and rugged in the world,
 and the cross of Christ was foolishness and a stumbling-block to them.
 
