@@ -1,11 +1,13 @@
-== Section XII.
+== Chapter XII
 
-Of his frequently exposing his own life to save his neighbours,
-and standing his ground in those perilous times, till his house was set on fire,
-himself and two sons led away to be murdered by the Irish raparees;
-yet by Divine Providence were delivered out of their hands.
-About the year 1690, he, with many more, saw the fulfilling of his prophecy,
-mentioned in the last section.
+[.chapter-synopsis]
+* His frequently exposing his own life to save his neighbours,
+* and standing his ground in those perilous times, till his house was set on fire,
+* himself and two sons led away to be murdered by the Irish raparees;
+* yet by Divine Providence were delivered out of their hands
+* About the year 1690, he, with many more, saw the fulfilling of his prophecy,
+* mentioned in the last section
+* //Not sure what to do with this one!!
 
 Now wickedness was let loose, and got ahead;
 so that by violence and cruelty most of our Protestant
@@ -15,10 +17,10 @@ also most of their cattle that were left, they brought to my land,
 thinking themselves and goods safer there than elsewhere.
 We were under great exercise and danger, not only of losing our goods, but our lives also.
 
-At the Boyne tight, the Irish army being beaten, many of them fled our road,
+At the Boyne Fight, the Irish army being beaten, many of them fled our road,
 and plundered many in our parts; they plundered my house several times over,
 and we were in great jeopardy of our lives; they were wicked and bloody;
-so the family were forced to go out of the way, and my wife desired me to go aside,
+so the family was forced to go out of the way, and my wife desired me to go aside,
 lest they should kill me, for she would venture her own life to save mine;
 but I could not do it, though they should be permitted to kill me.
 Yet the Lord`'s secret hand restrained them, and preserved our lives.
@@ -50,7 +52,7 @@ but some of our English neighbours were robbed or wounded;
 and when I told them of their promises, they would pretend ignorance of the matter.
 
 The English who remained near us,
-were forced to flee into the parish worship-house at Rossenallis,
+were forced to flee into the parish worship house at Rossenallis,
 a little way from my house, for safety.
 When the English and Scotch came into those parts, they plundered the Irish;
 but King William put forth a proclamation, that the Irish and others,
@@ -209,7 +211,7 @@ After some other discourse they left us.
 
 As we went through Raghan, there came out of a cabin an ancient Irishman,
 who looked on me with a sorrowful countenance, as though he pitied me, I looked on him,
-and asked him if he could give me a piece of bread, for I knew my sons were very hungry?
+and asked him if he could give me a piece of bread, for I knew my sons were very hungry.
 The man answered, and said he would give me a piece of bread, if he bought it with gold,
 for he believed I was one that did not use to beg my bread.
 So he went into the cabin, and fetched as coarse a piece of bread, I thought,
@@ -223,7 +225,7 @@ and such like names,
 that it was much they did not stab us with their bayonets and skeins,
 through the sheriff`'s animating and encouraging them.
 But in the interim a genteel man crowded through them, and came close to me,
-and calling me Master Edmundson, asked me howl did?
+and calling me Master Edmundson, asked me how I did.
 I answered, saying, You see how I do; but I know you not.. He answered, and said,
 I know you to be an honest man, and spoke aloud to the sheriff and the rest, saying,
 I have known him above twenty years, and I know him to be an honest man,
@@ -241,8 +243,8 @@ I heard he was reproved for being so kind to me, and dared come no more to see m
 
 In some little time we were taken to the castle, where the governor, colonel Grace,
 and the council of chief officers were met.
-I came in with my old blanket lapped about me: the governor asked where I lived?
-and what was my name?
+I came in with my old blanket lapped about me: the governor asked where I lived.
+And what was my name.
 I told him I was old William Edmundson: he stood up, with tears in his eyes,
 and said he was sorry to see me there in that condition, for he knew me well,
 having been sometimes at my house.
@@ -310,9 +312,9 @@ and it was a trial on most Friends in our country.
 The English fled to garrisons, and most of the Irish went to the raparees.
 
 One of my sons, who was with me, had a tan-yard well stocked with hides and leather,
-and about a week after our house was burnt, my wife went to fetch then off,
+and about a week after our house was burnt, my wife went to fetch them off,
 and several English neighbours, with horses and cars, went to help her;
-but whist they were loading the leather, etc., lieutenant Richard Dunn,
+but while they were loading the leather, etc., lieutenant Richard Dunn,
 and his brother-in-law, +++_____+++ Poor, whom I had met in going to Athlone,
 and who railed at me, as aforesaid, together with a multitude of raparees came upon them;
 so that they were forced to run for their lives, and leave the horses and cars,
@@ -356,12 +358,13 @@ that if they had killed me and my sons,
 they would have killed all the Irish they met with.
 From Mullingar I came to Jane Barcroft`'s, near Edenderry,
 and from there to Mountmelick to my wife, where many were glad to see me again.
-We shifted for house-room as veil as we could, the town being thronged with soldiers,
+//I noticed "Mountmelick" above was hyphenated in one of the ch. synopses, don't know if that's important for continuity, and I don't remember which chapter!! :)
+We shifted for house-room as well as we could, the town being thronged with soldiers,
 and families driven from their habitations in the country;
 many of whom died for lack of conveniences and necessaries,
 together with grief for their losses.
 
-The Irish preyed much abroad in the country, and destroyed t;
+The Irish preyed much abroad in the country, and destroyed it;
 so that the English army marched out to drive them back over the Shannon,
 and they burned much of the country that harboured them on this side.
 At this time also major general Kirk, with part of the army,
@@ -378,6 +381,7 @@ because this would hinder them from harbouring their kindred and countrymen,
 who were raparees, as they had frequently done before,
 therefore they got eight or nine bloody raparees,
 to lie in ambush between Mount-melick and Rossenallis in order to kill me,
+//Hyphenated here too??
 as hereafter may appear.
 For young John MacLisln, who had betrayed my wife into an ambush before,
 together with Dennis Dunn, came to Mount-melick in pretence of great friendship,
@@ -385,7 +389,7 @@ desiring me to go to Rossenallis, and speak with the officers in the garrison,
 and it would be better for the dwellers there; but as the Lord would have it,
 I did not go that day.
 Two days after they came to me again with the same pretence, saying also,
-that the soldiers were pulling down my out-houses, which were left unburnt;
+that the soldiers were pulling down my out houses, which were left unburnt;
 and using many arguments, in show of kindness and friendship,
 to persuade me to go to Rossenallis,
 but I was restrained by a secret hand that knew their evil design,
