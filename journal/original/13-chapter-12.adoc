@@ -7,7 +7,7 @@
 * yet by Divine Providence were delivered out of their hands
 * About the year 1690, he, with many more, saw the fulfilling of his prophecy,
 * mentioned in the last section
-* //Not sure what to do with this one!!
+* //Not sure what to do with this one!! Also, I just came back into this and it had added astericks where they weren't before. Am I doing something wrong? Like it inserted them on every line so they are in the middle of sentences. That's what must have happened the other time I didn't remember doing it like this. 
 
 Now wickedness was let loose, and got ahead;
 so that by violence and cruelty most of our Protestant
