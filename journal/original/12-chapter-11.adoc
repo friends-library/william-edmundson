@@ -1,9 +1,8 @@
-== Section XI.
+== Chapter XI
 
-After his return from America, he faithfully published in many meetings,
-a remarkable prophecy of the late troubles.--Also of his
-several prudent and successful applications to the government,
-for the relief of distressed Protestants, until 1690.
+[.chapter-synopsis]
+* After his return from America, he faithfully published in many meetings, a remarkable prophecy of the late troubles.
+* Also of his several prudent and successful applications to the government, for the relief of distressed Protestants, until 1690.
 
 King James II. being newly come to the crown,
 people`'s minds were not settled under the government,
@@ -146,7 +145,7 @@ and he would know if we had witnesses ready.
 I said we could have an hundred, and more if need were.
 He ordered us to be at the lord Chief Justice Nugent`'s next morning at eight o`'clock;
 also the captain and troopers were ordered to be there, to have the matter examined.
-We came at the hour appointed; the captain.
+We came at the hour appointed; the captain,
 Sir Maurice Eustace and the troopers were there, and examined, but all denied the fact;
 then Judge Nugent asked me, if I knew any of those who abused me.
 I challenged one, and he confessed; then the officer, who was with the party,
