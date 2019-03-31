@@ -1,15 +1,14 @@
-== Section IX.
+== Chapter IX
 
-Of his difficult voyage to the West Indies in 1675.
-His public dispute with Priest Ramsey,
-in the presence of about three thousand--Of his
-manifold perils and services in North America,
-both in the islands and continent, by sea and land, until his return, in 1677.
+[.chapter-synopsis]
+* His difficult voyage to the West Indies in 1675
+* His public dispute with Priest Ramsey, in the presence of about three thousand
+* His manifold perils and services in North America, both in the islands and continent, by sea and land, until his return, in 1677
 
 About the year 1675,
 I was moved of the Lord to go to the West Indies again in truth`'s service;
 and after some time, many Friends being acquainted with it, and having unity therewith,
-my wife also being willing to give me up, I inquired for shipping to Barbadoes,
+my wife also being willing to give me up, I inquired for shipping to Barbados,
 and heard of a ship at Cork bound there, one Edward Hunt, a Friend,
 being merchant and part owner, who also went in her himself.
 I had an account near the time when they would be ready to sail,
@@ -29,13 +28,13 @@ so were forced to shave deal boards, and pull the straw out of the men`'s cabins
 to mix with the shavings to give the horses to eat, and gave them biscuit;
 thus preserved their lives until they got ashore.
 
-In the latitude of Barbadoes, we met with a ship from Guinea,
-bound for Barbadoes with three hundred negroes;
+In the latitude of Barbados, we met with a ship from Guinea,
+bound for Barbados with three hundred negroes;
 we desired the master to let us have a barrel of water,
 but he told us he would not let us have a barrel of water for a barrel of silver;
 for he had been at allowance many weeks, and was afraid of running out.
-The day we espied Barbadoes we had scarcely half a barrel of water left.
-In about eight weeks we made our voyage, and landed well in Barbadoes,
+The day we espied Barbados we had scarcely half a barrel of water left.
+In about eight weeks we made our voyage, and landed well in Barbados,
 where Friends received me gladly;
 and I had a largo and open door among the people in the labour of the Gospel.
 People`'s lofty spirits were brought down, by reason of a very extraordinary storm,
@@ -43,7 +42,7 @@ called a hurricane, which had done abundance of damage in the island, killed man
 and destroyed many brave buildings, ships and small vessels.
 
 At this time there was great resorting to meetings, so that they were very full.
-I travelled through all parts of the island, and had meetings:
+I traveled through all parts of the island, and had meetings:
 many were convinced and received the truth,
 and Friends`' hearts were opened and enlarged in the love of God,
 both to receive truth`'s doctrine aad discipline.
@@ -85,6 +84,10 @@ which he said he would do from our own books.
 So after we got things a little quiet, we broke up the meeting;
 and at my lodging I wrote a few lines to him, after this manner:
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 Priest Ramsey,
 
 Forasmuch as you in public hast charged our Society with heresy, blasphemy and treason;
@@ -92,7 +95,10 @@ and that you would prove this charge from our own books,
 and on that account hast challenged me to a public dispute, I am willing,
 with the Lord`'s assistance, to give you a meeting in defence of our faith and doctrine.
 
+[.signed-section-signature]
 William Edmundson
+
+--
 
 When these came to his hand, he seemed to cool in his hot challenge, saying,
 he had not a convenient place,
@@ -103,7 +109,7 @@ I was not willing, but in public; and if he could procure leave of Justice Fryer
 to meet at his house where we did before, I would come to him in his own parish,
 otherwise I would get leave of Colonel Linn, to meet at his house.
 
-While I was writing this.
+While I was writing this,
 Colonel Linn came to see me, and I told him what I was writing,
 he said all his house was at my service; and if that were too little,
 he had conveniency of trees about his house,
@@ -136,7 +142,7 @@ as after appeared by a certificate under the hand and seal of the Earl of Roches
 occasioned by a slander cast upon a Friend in England,
 which he there said in public he had from the said earl,
 who was a near kinsman to the Friend accused.
-After the meeting, Priest Ramsey went to the governor.
+After the meeting, Priest Ramsey went to the governor,
 Sir Jonathan Atkins, and made a great complaint against me,
 that I was a Jesuit come out of Ireland, pretending to be a Quaker,
 and to make the negroes Christians; but would make them rebels,
@@ -163,9 +169,9 @@ and restraining them in that which God allowed and afforded to all men,
 which was food and clothes.
 After some time he grew very moderate.
 
-The marshal came, and asked him what his pleasure was?
-He answered, bethought to have committed me to prison, but his mind was altered;
-and asked me if I would appear before the council next day?
+The marshal came, and asked him what his pleasure was.
+He answered, he thought to have committed me to prison, but his mind was altered;
+and asked me if I would appear before the council next day.
 I told him I would, if he commanded me; he said he did command me,
 and so dismissed me for that time.
 Next day I came to the council-house,
@@ -183,7 +189,7 @@ and from that time the governor was kind to me.
 I laboured in the island about five months and had great service for the Lord;
 many received the truth, and things were well among Friends, and in good order.
 Being clear of the service there, and having drawings in my spirit to New England,
-I took passage for Rhode Island in a yatch, of which Joseph Bryar, a Friend, was master.
+I took passage for Rhode Island in a yacht, of which Joseph Bryar, a Friend, was master.
 When they were near ready to sail, I went and took leave of the governor,
 and he was very kind and friendly.
 The day we sailed, many Friends came to Bridgetown, to take their leave;
@@ -198,8 +204,8 @@ and killed several people who belonged to the government;
 but by the Lord`'s providential hand, were not allowed to come into the island.
 The Indians prevailed mightily, burnt many considerable towns, and murdered people daily.
 It was a perilous time, and the ways infested with murderers,
-the Indians lying hidden in bushes, shot men down as they travelled,
-before they saw them; and many were killed afier that manner.
+the Indians lying hidden in bushes, shot men down as they traveled,
+before they saw them; and many were killed after that manner.
 
 When I had stayed to some meetings with Friends in Rhode Island,
 it was with me to travel eastward towards Piscataway,
@@ -212,7 +218,7 @@ Friends were glad of my coming, for there was an honest tender people there,
 who loved the Lord and his truth.
 I stayed with them two meetings, and we were well refreshed in the Lord,
 and one in another.
-I travelled from there to Seffenase, and had a meeting; from there to Boston alone,
+I traveled from there to Seffenase, and had a meeting; from there to Boston alone,
 being thirty miles, and stayed one meeting: then went to Salem,
 and so to Piscataway river, visiting Friends, and having meetings at several places.
 I came to Great Island, and stayed a meeting or two with Friends there,
@@ -252,7 +258,7 @@ and several were convinced and received the truth.
 People`'s minds were cast down,
 because of the Indian wars that prevailed mightily upon them.
 
-I travelled in many places as with my life in my hand,
+I traveled in many places as with my life in my hand,
 leaving all to the Lord who rules in heaven and earth.
 I heard of some tender people at a place called Reading,
 so I and five or six Friends went there to an ancient man`'s house, whose name was Gould;
@@ -280,7 +286,7 @@ and felt they were a tender people; yet my heart was full of heavenly matter.
 After a little pause, I told them,
 I had many things to declare unto them of the things of God; but being in that house,
 must have leave of the master of it.
-lie bid me speak on,
+He bid me speak on,
 which I did in the demonstration of the spirit and power of the Lord;
 so that their consciences were awakened,
 and the witness of God in them answered to the truth of the testimony;
@@ -397,7 +403,7 @@ more than any other part of the law.
 I told them they were under a mistake, for they might find that our Saviour Jesus Christ,
 when he was in the flesh,
 did many things which the Jews accounted a breach of the sabbath;
-as healing people on the sabbath-day, travelling with his disciples,
+as healing people on the sabbath day, travelling with his disciples,
 who plucked ears of corn; and doing many things on the sabbath,
 with which the Jews were highly offended.
 So I opened many Scriptures to them, showing,
@@ -454,8 +460,8 @@ The owner of the sloop wept and the rest were amazed and tender.
 James Fletcher would go with me: so we went on shore, and bought each of us a horse,
 and the next morning took leave of our sloop`'s company;
 and went on our journey without any guide, except the Lord,
-and travelled through a great wilderness, which held us most of that day`'s journey.
-We travelled hard,
+and traveled through a great wilderness, which held us most of that day`'s journey.
+We traveled hard,
 and by the Lord`'s gracious assistance got that night within four miles of New Hertford,
 where we lodged at an ordinary, and the people were civil.
 I got up next morning very early, it being the first day of the week,
@@ -469,38 +475,38 @@ but the priest and people were not come to their worship, it being early;
 and my spirit was shut up from that place.
 Then I was brought under great exercise of mind, fearing that the Lord was angry with me,
 and rejected my service, for my delay under this exercise.
-I went forward about half a mile, and came near to another great meeting-house,
+I went forward about half a mile, and came near to another great meeting house,
 where I found openness in my spirit to go.
 I was glad of the Lord`'s countenance,
 though the people were not yet come to their worship.
 
 There was a large river, where they built many ships, about a quarter of a mile distant;
 there I went and sat down, until I saw people go to their worship.
-When they were gathered I went and stood in the worship-house, near the priest,
+When they were gathered I went and stood in the worship house, near the priest,
 until he had done his service, when I spoke what the Lord gave me.
 They were moderate and quiet, and the priest and magistrates went away,
 but many of the people stayed, and I had good service among them.
 When I had cleared my conscience we parted, and I went again towards the riverside.
 As I was going a man called me to come to his house and dine with him.
 I stood a little and looked at him, his spirit seemed to be deceitful;
-I asked him if he would take money for his food?
+I asked him if he would take money for his food.
 He said, no; then I told him I would not eat with him.
 So I went to the river-side again and sat down, though I had not eaten anything that day.
 
 After some time the bells rang for their afternoon worship,
-and I was moved to go to the other worship-house afore mentioned,
+and I was moved to go to the other worship house afore mentioned,
 from which in the morning my spirit was shut up.
 I went there, and the priest and people were gathered, having a guard of fire-locks,
 for fear of the Indians coming upon them while at their worship.
 I went in, and sounded an alarm in the dread of the Lord`'s power, and they were startled,
 yet were kept down by the Lord`'s power,
 in which I declared the way of salvation to them a pretty while; but after some time,
-by the persuasions of the priest, the officers haled me out of the worship-house,
+by the persuasions of the priest, the officers haled me out of the worship house,
 and hurt my arm so that it bled; then they took me to the guard of fire-locks on a hill.
 
 And though it was a very piercing cold day, and I still fasting,
 my body also thin by reason of the sickness I had in Rhode Island not long before,
-and other exercises which I travelled through, yet the Lord`'s power supported me,
+and other exercises which I traveled through, yet the Lord`'s power supported me,
 so that the officer who had me in charge,
 first complained of the sharpness of the weather,
 and asked me how I could endure the cold, for he was very cold?
@@ -587,7 +593,7 @@ who said I might go when and where I pleased.
 So I paid the people for my night`'s lodging, and being clear of the service there,
 I went towards the place where I left James Fletcher and our horses;
 and in the mean time James Fletcher came another way to look for me:
-thus we missed one of another.
+thus we missed one another.
 When he came to Hertford, he heard by several where I was gone,
 and came back and told me that I had set all the town a talking of religion.
 
@@ -611,7 +617,7 @@ to which there came several people who were tainted with the ranting spirit.
 One Edward Tarff came into the meeting with his face blacked,
 and said it was his justification and sanctification; also sung and danced,
 and came to me, where I was sitting waiting on the Lord, and called me old rotten priest,
-saying, I had lost the power of God; but the Lord`'s power filled my heart,
+saying I had lost the power of God; but the Lord`'s power filled my heart,
 and his word was powerful and sharp in my heart and tongue.
 I told him he was mad, and that made him fret; he said I lied,
 for he was moved of the Lord to come in that manner to reprove me.
@@ -640,7 +646,7 @@ from which there was a small path that led to Delaware Falls.
 So we rode back, and in some time found the landing place and little path;
 then the two Friends committed us to the Lord`'s guidance and went back.
 
-We travelled that day, and saw no tame creature;
+We traveled that day, and saw no tame creature;
 at night we kindled a fire in the wilderness, and lay by it,
 as we used to do in such journeys; next day about nine in the morning,
 by the good hand of God, we came well to the Falls,
@@ -648,7 +654,7 @@ and by his providence found an Indian man, a woman and boy with a canoe.
 We hired him for some wampampeg, to help us over in the canoe; we swam our horses,
 and though the river was broad, yet got well over; and,
 by the directions we received from Friends,
-travelled towards Delaware town along the west side of the river.
+traveled towards Delaware town along the west side of the river.
 When we had rode some miles, we baited our horses,
 and refreshed ourselves with such provisions as we had,
 for as yet we were not come to any inhabitants.
@@ -672,7 +678,7 @@ but for a long time could get no lodging for ourselves, or them;
 the inhabitants being most of them Dutch and Fins, and addicted to drunkenness.
 That place was then under the government of New York, and is now called Pennsylvania,
 there was a deputy-governor in it; so when we could not get a lodging,
-I went to the governor, and told him we were travellers,
+I went to the governor, and told him we were travelers,
 and had money to pay for what we called for, but could not get lodging for our money.
 He was very courteous, and went with us to an ordinary,
 and commanded the man to provide us lodging, which was both mean and dear,
@@ -681,7 +687,7 @@ to him for what I needed and I should have it.
 
 The next morning we took our journey towards Maryland,
 accompanied by Robert Wade and another Friend.
-We travelled hard and late at night, to William Southerby`'s at Sassafras river.
+We traveled hard and late at night, to William Southerby`'s at Sassafras river.
 From there we went among Friends on the Eastern Shore in Maryland,
 where we had many precious heavenly meetings for the worship of God,
 and men`'s and women`'s meetings to order the affairs of the church.
@@ -761,7 +767,7 @@ the Indians being at war with the Christians, and the governor,
 Sir William Berkeley and Colonel Bacon at fierce war one against another;
 so that the country was involved in trouble.
 Friends stood neuter, and my being there was not in vain on that account.
-I travelled from place to place for a time, and frigates came from England with soldiers,
+I traveled from place to place for a time, and frigates came from England with soldiers,
 to appease the difference between the governor and Colonel Bacon.
 The latter died; several of his party were executed, and others fined in great sums;
 but Friends were highly commended for keeping clear.
@@ -807,7 +813,7 @@ at last he asked if that was William?
 I said yes.
 He said he was affrighted, for he thought it had been my spirit; so he presently got up,
 and the ague left him, and did not return.
-He travelled with me the next day, and kept me company while I stayed in that part.
+He traveled with me the next day, and kept me company while I stayed in that part.
 
 On the first-day following,
 they appointed a meeting on the other side of Albemarle river,
@@ -829,7 +835,7 @@ People were tender and loving, and there was no room for the priests,
 for Friends were finely settled, and I left things well among them.
 When I was clear of that service,
 we returned to Virginia safe under the Lord`'s protection:
-praises to his name for evermore!
+praises to his name forevermore!
 
 After some meetings in several places, and settling things among Friends,
 I was clear of that country, and it was with me to go for England,
@@ -858,8 +864,9 @@ The merchant, the mate and I, purposed, when we came to anchor, to go ashore at 
 I having a desire to see Friends there, and they being kind men,
 were willing to have gone with me; but the master perceiving our intentions,
 when we came to the mouth of Cork harbour, tacked about the ship,
-and stood to sea out of mere crossness, being a very perverse drunken man.
-Fie told us he knew our design, and would cross it: but it fell upon himself,
+and stood to sea out of mere crossness, being a very perverse drunken man;
+his name was John Cragg,
+he told us he knew our design, and would cross it: but it fell upon himself,
 for after coming ashore, he was turned out of the master`'s place, and the mate put in.
 
 When we came to Bristol, I stayed some meetings there,
