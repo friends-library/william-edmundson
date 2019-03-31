@@ -1,9 +1,7 @@
-== Section XX.
+== Chapter XX
 
-In 1701 he visits the north of England; in about two months time returns,
-and writes to R. T. an excellent dissuasive letter
-against the too eager pursuit after the gain,
-pleasure, and great things of this life.
+[.chapter-synopsis]
+* In 1701 he visits the north of England; in about two months time returns, and writes to R. T. an excellent dissuasive letter against the too eager pursuit after the gain, pleasure, and great things of this life.
 
 Finding myself stronger and better in health, through the Lord`'s power which healed me,
 I laid my intention of going for England before the elders and brethren,
@@ -199,6 +197,10 @@ From thence we went to Birr, and had a meeting; and then rode home.
 I wrote a letter in the openings of truth, directed to Robert Trueman at Darlington,
 in Bishoprick, as an admonition to him and others, as followeth: viz.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Friend, R. T.
 
 The remembrance of thee and thy tender wife, in true love, causes these few lines,
@@ -239,14 +241,14 @@ who have oil in their lamps, and rise in the brightness of this glorious day of 
 having their affections set on things that are above, where Christ is,
 and not on things that be upon the earth,
 will enter with Christ into the wedding chamber.
-Now, my friend, I would not burthen thee with words,
+Now, my friend, I would not burden thee with words,
 but my heart is open in true love to thee and thine;
 and I certainly know the enemy of mankind is working in a mysterious way,
 to overthrow many who have had their faces Sionwards, now to look back to the gain,
 profit and pleasure in those things that are soon gone,
 and of which a little will serve in their right use with a contented mind.
 I can do no less but give notice of it, that thou and others may escape his snares,
-and cast off those burthens in this easy Gospel sabbath-day,
+and cast off those burdens in this easy Gospel sabbath-day,
 and cheerfully run the race in the service of God and their generation,
 according to the ability and gift received in their station and place.
 
@@ -283,4 +285,7 @@ When thou seest William Ellis, tell him that his ancient friend in the love of t
 advises him to take heed that the topping spirit after the things aforementioned,
 do not hurt him at unawares; which is my best love to him.
 
+[.signed-section-signature]
 William Edmundson
+
+--
