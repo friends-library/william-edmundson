@@ -1,11 +1,11 @@
-== Section XIX.
+== Chapter XIX
 
-In 1700 he visits Munster, where he was much afflicted in body.
-After his recovery and return, he, G. R. and J. F., went towards Connaught.
-At Ayres-court all three were put in the stocks.
-At Abby-boyle, they had a good meeting in the streets, etc.
-They write to the bishop of Clougher,
-and return through several meetings in Ulster and Leinster.
+[.chapter-synopsis]
+* In 1700 he visits Munster, where he was much afflicted in body
+* After his recovery and return, he, G. R. and J. F., went towards Connaught
+* At Ayres-court all three were put in the stocks
+* At Abby-boyle, they had a good meeting in the streets, etc.
+* They write to the bishop of Clougher, and return through several meetings in Ulster and Leinster.
 
 About this time I went towards Munster to visit Friends,
 and was at a meeting at Mountrath, and one at Knockballymagher, and so went to Limerick,
@@ -38,7 +38,7 @@ The National Half-year`'s Meeting being at hand,
 and having some service before me at that meeting,
 I was desirous to be there to perform it,
 although the distemper and soreness remained much upon me;
-yet I was willing to trust the Lord, wlio had often helped me through great weakness,
+yet I was willing to trust the Lord, who had often helped me through great weakness,
 to perform many weighty services for his honour,
 the promotion of his truth and good of his people.
 
@@ -52,7 +52,7 @@ both in doctrine and discipline, to our great benefit and comfort.
 When the service of that meeting was over, I took horse at Roger Roberts`'s:
 there many Friends and brethren came, where we parted after supplication to the Lord,
 whose love and life flowed in us.
-In two days`' time I came home to my house, the Lord`'s name be praised for evermore.
+In two days`' time I came home to my house, the Lord`'s name be praised for forevermore.
 
 Finding my body unable to endure long journeys,
 I kept to the service of meetings near home, as they fell in course;
@@ -153,13 +153,20 @@ and also a heavy rain and storm in our faces,
 so that both we and our horses were much foiled; but through the mercy of God,
 we all got there well, and the next day had a meeting: the people were civil and quiet.
 
-The bishop of the diocess lived about a mile from that place, but was not at home,
+The bishop of the diocese lived about a mile from that place, but was not at home,
 so we could not invite him to our meeting,
 but sent him three little books enclosed in a letter; a copy whereof follows:
 
-For the Bishop of Clougher.
+[.embedded-content-document.letter]
+--
 
-Friend, Here are a few of the true Christian church of reformed Protestants,
+[.letter-heading]
+For the Bishop of Clougher
+
+[.salutation]
+Friend,
+
+Here are a few of the true Christian church of reformed Protestants,
 upon a visit to our Christian friends and people, according to Christian duty,
 which our Saviour and his apostles taught and practised for our example to follow;
 and because of other service on this account,
@@ -169,9 +176,13 @@ but as a token of our friendship have sent you here enclosed three little books,
 which may be for your profit, if rightly applied;
 which is all at present from your Christian friends,
 
-William Edmundson, George Rooke, Roger Roberts, Thomas Winsloe.
+[.signed-section-signature]
+William Edmundson, George Rooke, Roger Roberts, Thomas Winsloe
 
-Auger, the 27th of the sixth month, 1700.
+[.signed-section-context-close]
+Auger, the 27th of the sixth month, 1700
+
+--
 
 After this meeting we rode to John Whiteside`'s, near Charlemount, fifteen miles,
 and the next day had a heavenly meeting with Friends at their meeting-house,
@@ -180,7 +191,7 @@ The next day, being the first-day of the week, we had a meeting at Thomas Gregg`
 where many Friends met us from Grange and Dunclaudy;
 then we went to Colerain and had a meeting,
 and several Friends came out of the country to it; from there to Grange,
-and had a meeting with Friends, and another at Antriin.
+and had a meeting with Friends, and another at Antrim.
 
 Then we went to Richard Boys`'s house, where we stayed to the Province Meeting,
 which held two days, and a great appearance of Friends there was,
