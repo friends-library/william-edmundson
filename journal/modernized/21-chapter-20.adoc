@@ -1,9 +1,7 @@
-== Section XX.
+== Chapter XX
 
-In 1701 he visits the north of England; in about two months time returns,
-and writes to R. T. an excellent dissuasive letter
-against the too eager pursuit after the gain,
-pleasure, and great things of this life.
+[.chapter-synopsis]
+* In 1701 he visits the north of England; in about two months time returns, and writes to R. T. an excellent dissuasive letter against the too eager pursuit after the gain, pleasure, and great things of this life
 
 Finding myself stronger and better in health, through the Lord`'s power which healed me,
 I laid my intention of going for England before the elders and brethren,
@@ -199,6 +197,10 @@ From there we went to Birr, and had a meeting; and then rode home.
 I wrote a letter in the openings of truth, directed to Robert Trueman at Darlington,
 in Bishoprick, as an admonition to him and others, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Friend, R. T.
 
 The remembrance of you and your tender wife, in true love, causes these few lines,
@@ -217,7 +219,7 @@ as instruments in the hand of God.
 But we cannot serve God as we ought to do, and as the day requires,
 neither please the Captain of our spiritual warfare, as good soldiers,
 if we involve and load ourselves with the things of this world.
-This is the great failure and stumbling-block at this day,
+This is the great failure and stumbling block at this day,
 and too many of our Society are hurt thereby, who have in measure escaped the unclean,
 unjust and unlawful things of this world,
 and washed their garments from the spots thereof; and bear the name of virgins,
@@ -280,7 +282,10 @@ I know there are a few names in that county who have a true regard to God`'s hon
 and would have things well in his house; but see that many things need reforming,
 which is their trouble; and with such my spirit travails.
 When you see William Ellis, tell him that his ancient friend in the love of truth,
-advises him to take heed that the topping spirit after the things aforementioned,
-do not hurt him unaware; which is my best love to him.
+advises him to take heed that the proud spirit after the things aforementioned,
+does not hurt him unaware; which is my best love to him.
 
+[.signed-section-signature]
 William Edmundson
+
+--
