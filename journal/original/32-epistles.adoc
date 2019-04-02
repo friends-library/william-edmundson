@@ -1,7 +1,7 @@
 == Epistles and Papers of William Edmundson.
 
-[.signed-section-context-open]
-An epistle to Friends, written in Jamaica. 1671.
+[.letter-heading]
+An epistle to Friends, written in Jamaica.
 
 [.salutation]
 Dear Friends,
@@ -124,6 +124,7 @@ and my tender love is to all honest-hearted Friends, as if I named them, and res
 [.signed-section-signature]
 Thy loving husband.
 
+[.blurb]
 === A letter of examination to all who have assumed the place of shepherds, and overseers of the flocks of people of all sorts in Christendom, to see if your accounts he ready, and what order the flocks are in: with a few lines of good news to the several flocks.
 
 Wo be to the shepherds that feed themselves; should not the shepherds feed the flocks?
@@ -449,7 +450,10 @@ which may attend that nation before many be aware, that we may all be ready,
 as Christ`'s freemen, to drink that cup which the Lord is pleased to put into our hands,
 for the trial of our faith, which is more precious than gold.
 My dear and true love is with you all, in the power of an endless life,
-wherein I am Your friend and brother,
+wherein I am,
+
+[.signed-section-closing]
+Your friend and brother,
 
 [.signed-section-context-close]
 William Edmundson.
@@ -630,6 +634,7 @@ William Edmundson
 [.signed-section-context-close]
 Barbadoes, the 12th day of the Fifth month, 1684.
 
+[.blurb]
 === For all Friends who know the heavenly gift of Christ Jesus, from the apostles to the hindermost of the flock of Christ, that they neglect not the service of their day, according to the abilities and gifts received, and more especially those gifted for doctrine and government.
 
 Christ Jesus, the promised Seed, who bruises the serpent`'s head,
@@ -910,6 +915,7 @@ William Edmundson
 [.signed-section-context-close]
 The 12th of the First month, 1695.
 
+[.letter-heading]
 === To His Son
 
 [.salutation]
@@ -958,6 +964,7 @@ William Edmundson
 [.signed-section-context-close]
 West Chester, the 12th of the Fifth month, 1697.
 
+[.letter-heading]
 === To His Son
 
 [.signed-section-context-open]
