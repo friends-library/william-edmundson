@@ -4,7 +4,7 @@
 * In 1697, he goes over to the Yearly Meetings at London, Wales, Bristol and Colchester
 * Visits several meetings through England and Wales for about seven months
 * After his return he solemnizes his marriage with Mary Strangman, at Mountmelick
-* //I finally remembered I can look in the PDF about Mountmelick, and it isn't hyphenated.
+* //I finally remembered I can look in the PDF about Mountmelick, and it isn`'t hyphenated.
 
 Soon after this I went to the Moat and was at their meeting on first-day,
 and stayed until third-day, there being a marriage and many people at it,
@@ -193,7 +193,6 @@ We abode some days at Robert Haydock`'s, and had a meeting,
 to which Friends came out of the country.
 From there we travelled to Chester, and had a meeting on first-day,
 many Friends of the country coming to it.
-//In the PDF, the last part of the line reads "came" to it, not "coming" to it. Are those changes you want me to make if I happen upon them? I only saw the difference because it couldn't find that line in the original...I finally realized that's why some parts can't be found online.
 Here I parted with George Rooke,
 having a concern on my mind to visit some meetings in several counties,
 and that night I went to John Merrick`'s in Cheshire,
@@ -253,7 +252,6 @@ two Friends who came from Cumberland to accompany us to this place.
 
 Next day we took a boat, and on the day following landed at Dunnaghadee in Ireland,
 being the 3rd day of the seventh month, 1697.
-//Do you want ordinal numbers to remain as is? I saw they are spelled out in the PDF.
 I hired a horse, and rode to Lisnegarvy twenty miles; and from there to Richard Boyes`'s,
 and had a meeting there on a first-day; also to Lurgan, and from there to Ballyhagan,
 and was at the Province Meeting, which held part of two days,
