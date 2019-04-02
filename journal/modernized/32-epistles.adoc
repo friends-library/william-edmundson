@@ -1,8 +1,9 @@
-== Epistles and Papers of William Edmundson.
+== Epistles and Papers of William Edmundson
 
-An epistle to Friends, written in Jamaica.
-1671.
+[.signed-section-context-open]
+An epistle to Friends, written in Jamaica. 1671.
 
+[.salutation]
 Dear Friends,
 
 As you have received and believed in the precious truth, so live in it to God`'s glory,
@@ -98,7 +99,11 @@ that we through him may be heirs of an everlasting inheritance,
 and not go after other lovers, or have the heart carried away with them,
 who will not stand instead, nor can they save in the needful time.
 
-William Edmundson.Jamaica, the 24th of the Twelfth month, 1671.
+[.signed-section-signature]
+William Edmundson
+
+[.signed-section-context-close]
+Jamaica, the 24th of the Twelfth month, 1671.
 
 === Part of a Letter to His Wife.
 
@@ -115,10 +120,12 @@ and in the end produce both peace and comfort.
 My dear love is to you, as a true and faithful husband, which you may assure yourself of,
 wherever I am, or however I may be disposed of;
 and my tender love is to all honest-hearted Friends, as if I named them, and rest
+//after "rest" above, there's no punctuation in the PDF, is that okay?
 
-Your loving husband.
+[.signed-section-signature]
+Your loving husband
 
-=== Part of a Letter written by William Edmundson, at Barbadoes, to Friends in Ireland; dated the 8th of the First month, 1675.
+=== Part of a Letter written by William Edmundson, at Barbados, to Friends in Ireland; dated the 8th of the First month, 1675.
 
 My love is to all dear Friends.
 
@@ -198,7 +205,7 @@ that all the Indians in those parts of America will be in arms this next summer.
 
 It is likely to be troublesome and perilous travelling,
 but the Lord can preserve and deliver out of all, unto whose will I am given up,
-whether it be to suffer for his name, or to five or die for his truth, his will be done;
+whether it be to suffer for his name, or to live or die for his truth, his will be done;
 and I hope my life will not be dear to me to part with, if he see it good;
 and I do not doubt but he will give me strength, in the inward man,
 to bear what the outward man may suffer for his glorious Gospel.
@@ -218,17 +225,21 @@ or encumbered with the things of this life; but be ready for sufferings,
 which may attend that nation before many be aware, that we may all be ready,
 as Christ`'s freemen, to drink that cup which the Lord is pleased to put into our hands,
 for the trial of our faith, which is more precious than gold.
+
+[.signed-section-closing]
 My dear and true love is with you all, in the power of an endless life,
 wherein I am Your friend and brother,
 
-William Edmundson.
+[.signed-section-signature]
+William Edmundson
 
 === Some Letters to His Wife
 
+[.salutation]
 My dear Wife,
 
 This is to let you know, in part, of my fare in this my travel.
-I landed in Barbadoes in eight weeks and four days after I left Ireland,
+I landed in Barbados in eight weeks and four days after I left Ireland,
 and abode there about six weeks, where I had much service for the Lord,
 which was well accepted by Friends.
 Sailing from there to Antigua, we were in danger of shipwreck,
@@ -242,7 +253,7 @@ After nine days abode there I sailed to this island, and have had several meetin
 and several people of account resort to them, and are very tender and loving.
 I am now very well, blessed be the Lord, and intend, if the Lord will,
 when clear in this island, to sail to Antigua,
-and so as opportunity presents to Barbadoes, and when clear there,
+and so as opportunity presents to Barbados, and when clear there,
 I know nothing at present but I may return to you in Ireland, if the Lord permit,
 which I know will be welcome news to you.
 My tender and true love is to all Friends, as if I named them, and to our children,
@@ -252,13 +263,16 @@ to his honour and our mutual comfort.
 My true and faithful love is with you, and I desire you,
 be tender of God`'s honour and truth`'s fame: So rest.
 
+[.signed-section-closing]
 Your faithful husband,
 
-William Edmundson.Charles-town, in Nevis, the 10th of the Second month, 1684.
+[.signed-section-signature]
+William Edmundson
 
-[.asterism]
-'''
+[.signed-section-context-close]
+Charles-town, in Nevis, the 10th of the Second month, 1684
 
+[.salutation]
 My dear Wife,
 
 The true and tender love which in duty I owe you,
@@ -268,21 +282,24 @@ I have been at Nevis and Mountserrat, and being now returned to this island,
 am very well, blessed be the Lord,
 who gives me strength and ability to perform his service committed to my charge,
 even beyond expectation.
-I purpose in the will of God to take the first opportunity for Barbadoes,
+I purpose in the will of God to take the first opportunity for Barbados,
 and when clear there, I find nothing at present but I may return for Ireland,
-but must abide in the will of God, to which I still hope you wilt submit,
+but must abide in the will of God, to which I still hope you will submit,
 whether in returning or travelling further, life or death.
 My true desires and prayers to the Lord night and day, are for you and yours,
 that you may be preserved blameless in his blessed truth,
 to God`'s honour and our mutual comfort.
 
+[.signed-section-closing]
 Your faithful and loving husband,
 
-William EdmundsonAntigua, the 3rd of the Third month, 1684.
+[.signed-section-signature]
+William Edmundson
 
-[.asterism]
-'''
+[.signed-section-context-close]
+Antigua, the 3rd of the Third month, 1684
 
+[.salutation]
 Dear Wife,
 
 My dear, tender and true love is to you,
@@ -332,11 +349,13 @@ of their ancient and true Friend, who cannot forget them when before the Lord.
 Once more my love is mentioned to you, and I hope yet, in the Lord`'s time,
 to see you again to our comfort, and remain, Your true and faithful husband,
 
-William Edmundson.Barbadoes, the 4th day of the Fourth month, 1684.
+[.signed-section-signature]
+William Edmundson
 
-[.asterism]
-'''
+[.signed-section-context-close]
+Barbados, the 4th day of the Fourth month, 1684
 
+[.salutation]
 Dear Wife,
 
 In my last, I gave you some encouragement to expect my return to you from this Island;
@@ -374,7 +393,7 @@ and corruptions of the flesh, with the lusts thereof;
 and that you may be enriched with the increase of God,
 through the blessed spirit of his Son,
 to his honour and your comfort both here and hereafter.
-This will be more joy and gladness to me, than the.
+This will be more joy and gladness to me, than the
 increase of all the riches in the world.
 The God and Father of our Lord Jesus Christ, preserve you blameless,
 and cause his face to shine upon you,
@@ -383,7 +402,11 @@ Amen.
 My dear and true love is with you, and to our children, and to all dear Friends,
 as if I named them.
 
-William Edmundson.Barbadoes, the 12th day of the Fifth month, 1684.
+[.signed-section-signature]
+William Edmundson
+
+[.signed-section-context-close]
+Barbados, the 12th day of the Fifth month, 1684
 
 === For all Friends who know the heavenly gift of Christ Jesus, from the apostles to the hindermost of the flock of Christ, that they neglect not the service of their day, according to the abilities and gifts received, and more especially those gifted for doctrine and government.
 
@@ -546,6 +569,7 @@ that so it may be seen we are in the footsteps of those who were given up in str
 understanding, time and substance,
 to spend and be spent in the service of the Lord and his people.
 
+[.signed-section-signature]
 William Edmundson.
 
 === Concerning Offerings to God, in Prayer and Supplication.
@@ -658,10 +682,15 @@ and dispensation of the new covenant.
 
 I have travelled under a deep sense and concern in this matter for some time.
 
-William Edmundson.The 12th of the First month, 1695.
+[.signed-section-signature]
+William Edmundson
+
+[.signed-section-context-close]
+The 12th of the First month, 1695.
 
 === To His Son
 
+[.salutation]
 Son Tryal,
 
 I received yours at Liverpool, with one by order from the Monthly Meeting,
@@ -688,7 +717,7 @@ giving strength and ability beyond the ordinary course of nature;
 blessed be his name forever.
 
 And now, my son, it will be gladness to me, that you show yourself a man for truth,
-in all your concerns; and if you truly fear God, you wilt learn wisdom,
+in all your concerns; and if you truly fear God, you will learn wisdom,
 which will give you credit and favour with the Lord and his people.
 
 Remember my tender fatherly love to your brothers and sisters, and to my grandchildren,
@@ -700,12 +729,18 @@ they discredit and dishonour themselves: but all that honour the Lord in their c
 he honours, and will honour with many favours.
 This is what offers at present from a tender careful father.
 
-William Edmundson.West Chester, the 12th of the Fifth month, 1697.
+[.signed-section-signature]
+William Edmundson
+
+[.signed-section-context-close]
+West Chester, the 12th of the Fifth month, 1697.
 
 === To His Son
 
+[.signed-section-context-open]
 York, the 7th of the Sixth month, 1697.
 
+[.salutation]
 Son Tryal,
 
 This may let you and the rest know, who desire to hear of my welfare,
@@ -775,7 +810,8 @@ who orders all things for the best, for them that fear him,
 and cast themselves upon his ordering providential power, that rules all things.
 It is safe to keep there out of all self-will and haste.
 
-William Edmundson.
+[.signed-section-signature]
+William Edmundson
 
 === A Postscript to an Epistle from Leinster Province Meeting.
 
@@ -850,11 +886,15 @@ lay hold on presentations and opportunities to get riches, which many have had,
 and refused for truth`'s sake, and the Lord has accepted thereof as an offering,
 and rewarded them with great comfort, to the praise of his great name.
 
-William Edmundson.
+[.signed-section-signature]
+William Edmundson
 
-=== An Epistle to Friends in Barbadoes.
+=== An Epistle to Friends in Barbados.
 
-My dear Friends, You are in my memory in the ancient love of God, in which I visited you,
+[.salutation]
+My dear Friends,
+
+You are in my memory in the ancient love of God, in which I visited you,
 and laboured in your island, and those parts of the world,
 to gather into the blessed unchangeable truth, and to settle and confirm you in it,
 according to the ability and gift of God given to me,
@@ -892,7 +932,7 @@ that all may be preserved from the evils and vanities that are in the world,
 and grow up together in the faith of Jesus, and grace of God,
 from one degree of strength and knowledge of Christ Jesus to another;
 that through the exercise of your senses, in the law of the spirit of life in Christ,
-you may be skilful in the word of righteousness,
+you may be skillful in the word of righteousness,
 to act for God in the unity of his holy Spirit, and fellowship of his light,
 as co-workers together in his vineyard.
 Thus all things may be kept clean and sweet,
@@ -929,7 +969,8 @@ such the Lord is honouring; everlasting praises to his name.
 
 My sincere love, in the unchangeable truth, is to you all, and my prayers to God for you.
 
-William Edmundson.
+[.signed-section-signature]
+William Edmundson
 
 === Concerning Men`'s and Women`'s Meetings.
 
@@ -1035,9 +1076,12 @@ for it is in the gift of the Lord`'s good spirit,
 that the ability stands to perform that service as well as doctrine.
 If any undertake it otherwise, they miss their way, mar the work,
 and instead of being helpmeets in government, do many times cause trouble in the church.
+
+[.signed-section-closing]
 This from Your ancient friend and brother,
 
-William Edmundson.
+[.signed-section-signature]
+William Edmundson
 
 === A letter of examination to all who have assumed the place of shepherds, and overseers of the flocks of people of all sorts in Christendom, to see if your accounts he ready, and what order the flocks are in: with a few lines of good news to the several flocks.
 
@@ -1259,4 +1303,8 @@ whose kingdom is everlasting, and of his government there shall be no end.
 The Lord will do this, to reform the nations,
 and bring them to uniformity and true conformity in his dear Son.
 
-William Edmundson.Jamaica, the 24th of the Twelfth month, 1672.
+[.signed-section-signature]
+William Edmundson
+
+[.signed-section-context-close]
+Jamaica, the 24th of the Twelfth month, 1672.
