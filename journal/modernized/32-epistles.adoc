@@ -105,7 +105,8 @@ William Edmundson
 [.signed-section-context-close]
 Jamaica, the 24th of the Twelfth month, 1671.
 
-=== Part of a Letter to His Wife.
+[.letter-heading]
+Part of a Letter to His Wife.
 
 I have had several meetings here with Friends; the Lord`'s heavenly presence was with us,
 and many were well refreshed.
@@ -351,8 +352,10 @@ William Edmundson
 [.signed-section-context-close]
 Jamaica, the 24th of the Twelfth month, 1672.
 
+[.blurb]
 === Part of a Letter written by William Edmundson, at Barbados, to Friends in Ireland; dated the 8th of the First month, 1675.
 
+[.salutation]
 My love is to all dear Friends.
 
 It is not distance or length of time, tribulations or peril by sea or land, though many,
@@ -460,7 +463,8 @@ Your friend and brother,
 [.signed-section-signature]
 William Edmundson
 
-=== Some Letters to His Wife
+[.letter-heading]
+Some Letters to His Wife
 
 [.salutation]
 My dear Wife,
@@ -635,6 +639,7 @@ William Edmundson
 [.signed-section-context-close]
 Barbados, the 12th day of the Fifth month, 1684
 
+[.blurb]
 === For all Friends who know the heavenly gift of Christ Jesus, from the apostles to the hindermost of the flock of Christ, that they neglect not the service of their day, according to the abilities and gifts received, and more especially those gifted for doctrine and government.
 
 Christ Jesus, the promised Seed, who bruises the serpent`'s head,
@@ -799,7 +804,8 @@ to spend and be spent in the service of the Lord and his people.
 [.signed-section-signature]
 William Edmundson.
 
-=== Concerning Offerings to God, in Prayer and Supplication.
+[.letter-heading]
+Concerning Offerings to God, in Prayer and Supplication.
 
 The offerings that are acceptable to God, must be offered in righteousness,
 and with clean hearts and lips.
@@ -916,7 +922,7 @@ William Edmundson
 The 12th of the First month, 1695.
 
 [.letter-heading]
-=== To His Son
+To His Son
 
 [.salutation]
 Son Tryal,
@@ -964,7 +970,7 @@ William Edmundson
 West Chester, the 12th of the Fifth month, 1697.
 
 [.letter-heading]
-=== To His Son
+To His Son
 
 [.signed-section-context-open]
 York, the 7th of the Sixth month, 1697.
@@ -1042,7 +1048,8 @@ It is safe to keep there out of all self-will and haste.
 [.signed-section-signature]
 William Edmundson
 
-=== A Postscript to an Epistle from Leinster Province Meeting.
+[.letter-heading]
+A Postscript to an Epistle from Leinster Province Meeting.
 
 When the Lord first called and gathered us to be a people,
 and opened the eyes of our understandings, we saw the exceeding sinfulness of sin,
@@ -1118,7 +1125,8 @@ and rewarded them with great comfort, to the praise of his great name.
 [.signed-section-signature]
 William Edmundson
 
-=== An Epistle to Friends in Barbados.
+[.letter-heading]
+An Epistle to Friends in Barbados.
 
 [.salutation]
 My dear Friends,
@@ -1201,6 +1209,7 @@ My sincere love, in the unchangeable truth, is to you all, and my prayers to God
 [.signed-section-signature]
 William Edmundson
 
+[.letter-heading]
 === Concerning Men`'s and Women`'s Meetings.
 
 [.salutation]
