@@ -82,9 +82,7 @@ and we pray, that it may please the Almighty,
 to raise up others to supply his place and service in the churches of Christ.
 
 Signed by order, in behalf of the said meeting, by Robert Hoope, Alexander Seaton.
-
-[.asterism]
-'''
+//Does this need any signed signature stuff?
 
 === The Testimony of Friends of Leinster province, concerning William Edmundson.
 
@@ -224,9 +222,6 @@ the 18th of the Second month, 1713.
 
 Signed by order, in behalf of the said meeting, by John Pim, Nicholas Gribbell.
 
-[.asterism]
-'''
-
 === The Testimony of Munster province Meeting, concerning William Edmundson.
 
 Our dear Friend and elder brother in the Lord, William Edmundson, who is removed from us,
@@ -305,10 +300,8 @@ Joseph Pike.
 
 Waterford, the 2nd of the Ninth month, 1713.
 
-[.asterism]
-'''
-
-=== The Testimony of Friends of Mount-melick Monthly Meeting; concerning our dear and ancient friend William Edmundson, whom the Lord has been pleased to remove from us by death; and though it he our loss, we believe it is his great gain.
+=== The Testimony of Friends of Mount-melick Monthly Meeting; concerning our dear and ancient friend William Edmundson, whom the Lord has been pleased to remove from us by death; and though it be our loss, we believe it is his great gain.
+//I'm not sure if that was appropriate change above, but I can't find this whole chapter in either of the PDF's. Everything I search for in both of them doesn't come up.
 
 He was early called forth to labour in the Lord`'s vineyard,
 and was made instrumental in the Lord`'s hand for the good of many,
@@ -369,8 +362,9 @@ He was very helpful and strengthening to Friends in those times of great calamit
 he was also concerned in addressing the government and chiefest men
 in authority on behalf of Friends and the English inhabitants,
 and they commonly would hear him,
-and often granted relief He was careful in advising Friends,
+and often granted relief. He was careful in advising Friends,
 that they should not touch with any goods, where property was dubious, in those times;
+//"touch with any goods" is underlined and questioned by the proofreader, but again I can't find the PDF :(
 and when the war was over, and Friends began to settle in the country, his care was,
 that Friends might settle near together,
 and also that they might keep within the bounds of truth and moderation,
