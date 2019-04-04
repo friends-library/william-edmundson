@@ -458,7 +458,7 @@ wherein I am,
 [.signed-section-closing]
 Your friend and brother,
 
-[.signed-section-context-close]
+[.signed-section-signature]
 William Edmundson.
 
 [.letter-heading]
@@ -1205,13 +1205,12 @@ and cast their care upon him, and seek his honour before all private interest;
 such the Lord is honouring; everlasting praises to his name.
 
 My sincere love, in the unchangeable truth, is to you all, and my prayers to God for you.
-//not sure if this is a [.signed-section-closing] ^^
 
 [.signed-section-signature]
 William Edmundson
 
 [.letter-heading]
-Concerning Men`'s and Women`'s Meetings.
+=== Concerning Men`'s and Women`'s Meetings.
 
 [.salutation]
 Dear Friends, Brethren and Sisters;
@@ -1317,6 +1316,8 @@ for it is in the gift of the Lord`'s good spirit,
 that the ability stands to perform that service as well as doctrine.
 If any undertake it otherwise, they miss their way, mar the work,
 and instead of being helpmeets in government, do many times cause trouble in the church.
+
+[.signed-section-closing]
 This from Your ancient friend and brother,
 
 [.signed-section-signature]
