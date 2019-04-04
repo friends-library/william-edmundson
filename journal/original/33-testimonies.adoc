@@ -1,5 +1,6 @@
 == Testimonies Concerning William Edmundson.
 
+[.blurb]
 === A Testimony of the Provincial Quarterly Meeting for Ulster, held in Lurgan the 5th of the Seventh month, 1713, concerning our ancient and worthy Friend, William Edmundson, deceased.
 
 There seems to be a duty on us to cast in a mite into the treasury,
@@ -81,8 +82,13 @@ like a shock of corn in its season, whose memory is sweet to those who yet survi
 and we pray, that it may please the Almighty,
 to raise up others to supply his place and service in the churches of Christ.
 
-Signed by order, in behalf of the said meeting, by Robert Hoope, Alexander Seaton.
+[.signed-section-closing]
+Signed by order, in behalf of the said meeting, by
 
+[.signed-section-signature]
+Robert Hoope, Alexander Seaton.
+
+[.blurb]
 === The Testimony of Friends of Leinster province, concerning William Edmundson.
 
 We being under a deep sense of the wonderful loving-kindness
@@ -219,8 +225,13 @@ that he hath begun, to the praise of his own great name, who is worthy forever.
 Given forth at our Province men`'s meeting for Leinster, held at Catherlough,
 the 18th of the Second month, 1713.
 
-Signed by order, in behalf of the said meeting, by John Pim, Nicholas Gribbell.
+[.signed-section-closing]
+Signed by order, in behalf of the said meeting, by
 
+[.signed-section-signature]
+John Pim, Nicholas Gribbell.
+
+[.blurb]
 === The Testimony of Munster province Meeting, concerning William Edmundson.
 
 Our dear Friend and elder brother in the Lord, William Edmundson, who is removed from us,
@@ -294,12 +305,17 @@ which was in the year 1712.
 May the great Lord of the harvest raise up more such labourers in his vineyard,
 is the desire of our souls.
 
-Signed by order, in behalf of the said meeting, by Thomas Wight.
+[.signed-section-closing]
+Signed by order, in behalf of the said meeting, by
 
+[.signed-section-signature]
+Thomas Wight.
 Joseph Pike.
 
+[.signed-section-context-close]
 Waterford, the 2nd of the Ninth month, 1713.
 
+[.blurb]
 === The Testimony of Friends of Mount-melick Monthly Meeting; concerning our dear and ancient friend William Edmundson, whom the Lord hath been pleased to remove from us by death; and though it be our loss, we believe it is his great gain.
 
 He was early called forth to labour in the Lord`'s vineyard,
@@ -397,13 +413,19 @@ We might say much more as to his service for truth among Friends,
 and of our loss of him on that account; and though he be taken away from us,
 his memory lives and remains with us.
 
-Signed by order, in behalf of the said meeting, by Tobias Pledwell, John Barcroft.
+[.signed-section-closing]
+Signed by order, in behalf of the said meeting, by
 
+[.signed-section-signature]
+Tobias Pledwell, John Barcroft.
+
+[.signed-section-context-close]
 Mount-melick, the 1st of the First month, 1713.
 
+[.blurb]
 === The Testimony of George Rooke, concerning William Edmundson.
 
-A TESTIMONY lives in my heart to give to the memory of my true and worthy friend,
+A testimony lives in my heart to give to the memory of my true and worthy friend,
 William Edmundson.
 He was a man with whom I have had some acquaintance above thirty years,
 but we were more intimately and nearly acquainted about fifteen years last past,
@@ -536,6 +558,8 @@ faithful and good servant, enter thou into the joy of thy Lord.
 May we all so labour as to be counted worthy thereof, with this our aged Friend at last,
 is the sincere desire and travel of.
 
+[.signed-section-closing]
 Thy friend, who wisheth the welfare of all men, both here and hereafter.
 
+[.signed-section-signature]
 George Rooke.
