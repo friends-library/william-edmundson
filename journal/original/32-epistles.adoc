@@ -351,7 +351,7 @@ William Edmundson
 Jamaica, the 24th of the Twelfth month, 1672.
 
 [.blurb]
-=== Part of a Letter written by William Edmundson, at Barbadoes, to Friends in Ireland; dated the 8th of the First month, 1675.
+=== Part of a Letter written by William Edmundson, at Barbados, to Friends in Ireland; dated the 8th of the First month, 1675.
 
 [.salutation]
 My love is to all dear Friends.
@@ -468,7 +468,7 @@ Some Letters to His Wife
 My dear Wife,
 
 This is to let thee know, in part, of my fare in this my travel.
-I landed in Barbadoes in eight weeks and four days after I left Ireland,
+I landed in Barbados in eight weeks and four days after I left Ireland,
 and abode there about six weeks, where I had much service for the Lord,
 which was well accepted by Friends.
 Sailing from thence to Antigua, we were in danger of shipwreck,
@@ -482,7 +482,7 @@ After nine days abode there I sailed to this island, and have had several meetin
 and several people of account resort to them, and are very tender and loving.
 I am now very well, blessed be the Lord, and intend, if the Lord will,
 when clear in this island, to sail to Antigua,
-and so as opportunity presents to Barbadoes, and when clear there,
+and so as opportunity presents to Barbados, and when clear there,
 I know nothing at present but I may return to thee in Ireland, if the Lord permit,
 which I know will be welcome news to thee.
 My tender and true love is to all Friends, as if I named them, and to our children,
@@ -511,7 +511,7 @@ I have been at Nevis and Mountserrat, and being now returned to this island,
 am very well, blessed be the Lord,
 who gives me strength and ability to perform his service committed to my charge,
 even beyond expectation.
-I purpose in the will of God to take the first opportunity for Barbadoes,
+I purpose in the will of God to take the first opportunity for Barbados,
 and when clear there, I find nothing at present but I may return for Ireland,
 but must abide in the will of God, to which I still hope thou wilt submit,
 whether in returning or travelling further, life or death.
@@ -583,7 +583,7 @@ to see thee again to our comfort, and remain, Thy true and faithful husband,
 William Edmundson
 
 [.signed-section-context-close]
-Barbadoes, the 4th day of the Fourth month, 1684.
+Barbados, the 4th day of the Fourth month, 1684.
 
 [.salutation]
 Dear Wife,
@@ -636,7 +636,7 @@ as if I named them.
 William Edmundson
 
 [.signed-section-context-close]
-Barbadoes, the 12th day of the Fifth month, 1684.
+Barbados, the 12th day of the Fifth month, 1684.
 
 [.blurb]
 === For all Friends who know the heavenly gift of Christ Jesus, from the apostles to the hindermost of the flock of Christ, that they neglect not the service of their day, according to the abilities and gifts received, and more especially those gifted for doctrine and government.
@@ -1126,7 +1126,7 @@ and rewarded them with great comfort, to the praise of his great name.
 William Edmundson
 
 [.letter-heading]
-An Epistle to Friends in Barbadoes.
+An Epistle to Friends in Barbados.
 
 [.salutation]
 My dear Friends,
