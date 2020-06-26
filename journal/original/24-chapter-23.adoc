@@ -149,9 +149,9 @@ proceedings of thy officers in court against our said friend,
 desiring thee to read this, and so leave it to thy discretion, and the issue to the Lord.
 
 [.postscript]
-Postscript:
+====
 
-A worthy saying of Bishop Boyle, called Primate of Ireland,
+Postscript: A worthy saying of Bishop Boyle, called Primate of Ireland,
 against controversy and strife among Christians, is in these words:
 "`Heaven is a quiet place, there no quarrels are;
 and religion is a holy and peaceable thing, which excites to piety and charity;
@@ -160,5 +160,7 @@ And that noble and worthy Prince, King William, in his speech to the parliament,
 "`That differences of names among Protestants might be taken away,
 and no other distinction of religion exist among his subjects,
 but Protestants and Papists.`"
+
+====
 
 --
