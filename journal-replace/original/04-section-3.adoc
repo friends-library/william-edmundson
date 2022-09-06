@@ -1,7 +1,10 @@
 == Section III.
 
-[.blurb]
-=== Of his first public ministry, his visit to George Fox in England, the settling of a meeting in Dublin, his imprisonment at Armagh, and dispute with a priest and a justice of the county, etc.
+[.chapter-synopsis]
+* Of his first public ministry
+* His visit to George Fox in England
+* The settling of a meeting in Dublin
+* His imprisonment at Armagh, and dispute with a priest and a justice of the county, etc.
 
 Some time after this,
 John Tiffin was moved of the Lord to come into Ireland in truth`'s service.
