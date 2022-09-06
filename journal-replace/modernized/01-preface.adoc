@@ -17,6 +17,7 @@ ____
 
 == Preface.
 
+[.salutation]
 Friendly Reader,
 
 It has pleased Almighty God, in the riches of his love and mercy,
@@ -391,6 +392,8 @@ and the gift of grace bestowed on you through Christ Jesus,
 that your latter end may be peace, and your future state eternal happiness.
 So in Christian love remain your well-wishing friend,
 
+[.signed-section-signature]
 John Stoddart.
 
+[.signed-section-context-close]
 Dublin, the 26th of the Eighth month, 1714.

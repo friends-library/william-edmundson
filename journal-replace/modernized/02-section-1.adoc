@@ -1,7 +1,8 @@
 [short="Section I"]
 == Journal of the Life of William Edmundson. Section I.
 
-Giving an account of his birth, parentage, trade, marriage, convincement, etc.
+[.blurb]
+=== Giving an account of his birth, parentage, trade, marriage, convincement, etc.
 
 I was born at Little-Musgrove in Westmoreland, in the north of England, in the year 1627:
 my father`'s and mother`'s names were John and Grace Edmundson.
