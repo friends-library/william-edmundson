@@ -1,10 +1,8 @@
 == Section IX.
 
-Of his difficult voyage to the West Indies in 1675.
-His public dispute with Priest Ramsey,
-in the presence of about three thousand--Of his manifold
-perils and services in North America,
-both in the islands and continent, by sea and land, until his return, in 1677.
+[.chapter-synopsis]
+* Of his difficult voyage to the West Indies in 1675. His public dispute with Priest Ramsey, in the presence of about three thousand
+* Of his manifold perils and services in North America, both in the islands and continent, by sea and land, until his return, in 1677
 
 About the year 1675,
 I was moved of the Lord to go to the West Indies again in truth`'s service;
@@ -85,6 +83,10 @@ which he said he would do from our own books.
 So after we got things a little quiet, we broke up the meeting;
 and at my lodging I wrote a few lines to him, after this manner:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Priest Ramsey,
 
 Forasmuch as thou in public hast charged our Society with heresy, blasphemy and treason;
@@ -92,7 +94,10 @@ and that thou wouldst prove this charge from our own books,
 and on that account hast challenged me to a public dispute, I am willing,
 with the Lord`'s assistance, to give thee a meeting in defence of our faith and doctrine.
 
+[.signed-section-signature]
 William Edmundson
+
+--
 
 When these came to his hand, he seemed to cool in his hot challenge, saying,
 he had not a convenient place,

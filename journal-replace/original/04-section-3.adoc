@@ -1,8 +1,10 @@
 == Section III.
 
-Of his first public ministry, his visit to George Fox in England,
-the settling of a meeting in Dublin, his imprisonment at Armagh,
-and dispute with a priest and a justice of the county, etc.
+[.chapter-synopsis]
+* Of his first public ministry
+* His visit to George Fox in England
+* The settling of a meeting in Dublin
+* His imprisonment at Armagh, and dispute with a priest and a justice of the county, etc.
 
 Some time after this,
 John Tiffin was moved of the Lord to come into Ireland in truth`'s service.
@@ -62,13 +64,19 @@ of the openness among people in the north of that nation, to hear the truth decl
 and of the want of ministering Friends in the Gospel there.
 He wrote the following epistle to Friends, which he sent with me: viz.
 
+[.embedded-content-document.epistle]
+--
+
 Friends, in that which convinced you, wait,
 that you may have that removed you are convinced of; and all my dear Friends,
 dwell in the life, and love, and power and wisdom of God, in unity one with another,
 and with God; and the peace and wisdom of God fill all your hearts,
 that nothing may rule in you but the life, which stands in the Lord God.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 He bid me, when I came to Ireland, go to Edward Burrough and Francis Howgill,
 for they were in the south of that kingdom in the service of truth.
