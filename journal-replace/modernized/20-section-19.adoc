@@ -1,11 +1,11 @@
 == Section XIX.
 
-In 1700 he visits Munster, where he was much afflicted in body.
-After his recovery and return, he, G. R. and J. F., went towards Connaught.
-At Ayres-court all three were put in the stocks.
-At Abby-boyle, they had a good meeting in the streets, etc.
-They write to the bishop of Clougher,
-and return through several meetings in Ulster and Leinster.
+[.chapter-synopsis]
+* In 1700 he visits Munster, where he was much afflicted in body
+* After his recovery and return, he, G. R. and J. F., went towards Connaught
+* At Ayres-court all three were put in the stocks
+* At Abby-boyle, they had a good meeting in the streets, etc.
+* They write to the bishop of Clougher, and return through several meetings in Ulster and Leinster
 
 About this time I went towards Munster to visit Friends,
 and was at a meeting at Mountrath, and one at Knockballymagher, and so went to Limerick,
@@ -157,6 +157,10 @@ The bishop of the diocese lived about a mile from that place, but was not at hom
 so we could not invite him to our meeting,
 but sent him three little books enclosed in a letter; a copy whereof follows:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 For The Bishop Of Clougher
 
 Friend, Here are a few of the true Christian church of reformed Protestants,
@@ -169,9 +173,13 @@ but as a token of our friendship have sent you here enclosed three little books,
 which may be for your profit, if rightly applied;
 which is all at present from your Christian friends,
 
+[.signed-section-signature]
 William Edmundson, George Rooke, Roger Roberts, Thomas Winsloe.
 
+[.signed-section-context-close]
 Auger, the 27th of the sixth month, 1700.
+
+--
 
 After this meeting we rode to John Whiteside`'s, near Charlemount, fifteen miles,
 and the next day had a heavenly meeting with Friends at their meetinghouse,

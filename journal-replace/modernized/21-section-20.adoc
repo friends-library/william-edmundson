@@ -1,9 +1,8 @@
 == Section XX.
 
-In 1701 he visits the north of England; in about two months time returns,
-and writes to R. T. an excellent dissuasive letter
-against the too eager pursuit after the gain,
-pleasure, and great things of this life.
+[.chapter-synopsis]
+* In 1701 he visits the north of England; in about two months time returns
+* Writes to R. T. an excellent dissuasive letter against the too eager pursuit after the gain, pleasure, and great things of this life
 
 Finding myself stronger and better in health, through the Lord`'s power which healed me,
 I laid my intention of going for England before the elders and brethren,
@@ -199,6 +198,10 @@ From there we went to Birr, and had a meeting; and then rode home.
 I wrote a letter in the openings of truth, directed to Robert Trueman at Darlington,
 in Bishopric, as an admonition to him and others, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Friend, R. T.
 
 The remembrance of you and your tender wife, in true love, causes these few lines,
@@ -285,4 +288,7 @@ When you see William Ellis, tell him that his ancient friend in the love of trut
 advises him to take heed that the topping spirit after the things aforementioned,
 does not hurt him unaware; which is my best love to him.
 
+[.signed-section-signature]
 William Edmundson
+
+--
