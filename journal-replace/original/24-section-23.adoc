@@ -1,9 +1,9 @@
 == Section XXIII.
 
-In 1702, he goes over to the Yearly Meeting at London.
-After his return, he visits Ulster in company with G. R.;
-then writes to the bishop of Kildare,
-in behalf of Friends`' school-master at Mountmellick.
+[.chapter-synopsis]
+* In 1702, he goes over to the Yearly Meeting at London
+* After his return, he visits Ulster in company with G. R.
+* Writes to the bishop of Kildare, in behalf of Friends`' school-master at Mountmellick
 
 The time of our National Meeting at Dublin approaching,
 I went thither in the third month, 1702,
@@ -78,6 +78,10 @@ and was likely to be excommunicated for teaching school without the bishop`'s li
 and I having some acquaintance with the bishop, wrote the following letter,
 and sent it to him: viz.
 
+[.embedded-content-document.letter]
+--
+
+[.offset]
 May it please the bishop.
 
 This comes as an address in the behalf of a friend of mine,
@@ -143,6 +147,9 @@ which makes me the more willing to let thee know the proceedings
 of thy officers in court against our said friend,
 desiring thee to read this, and so leave it to thy discretion, and the issue to the Lord.
 
+[.postscript]
+====
+
 Postscript: A worthy saying of Bishop Boyle, called Primate of Ireland,
 against controversy and strife among Christians, is in these words:
 "`Heaven is a quiet place, there no quarrels are;
@@ -152,3 +159,7 @@ And that noble and worthy Prince, King William, in his speech to the parliament,
 "`That differences of names among Protestants might be taken away,
 and no other distinction of religion exist among his subjects,
 but Protestants and Papists.`"
+
+====
+
+--
