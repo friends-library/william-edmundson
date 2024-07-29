@@ -1,11 +1,10 @@
 == Chapter III
 
 [.chapter-synopsis]
-* His First Public Ministry
-* His Visit to George Fox in England
-* The Settling of a Meeting in Dublin
-* His Imprisonment at Armagh
-* A Dispute with a Priest and a Justice of the County
+* Of his first public ministry
+* His visit to George Fox in England
+* The settling of a meeting in Dublin
+* His imprisonment at Armagh, and dispute with a priest and a justice of the county, etc.
 
 Some time after this,
 John Tiffin was moved of the Lord to come into Ireland in truth`'s service.
@@ -65,7 +64,7 @@ of the openness among people in the north of that nation, to hear the truth decl
 and of the want of ministering Friends in the Gospel there.
 He wrote the following epistle to Friends, which he sent with me: viz.
 
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
 
 Friends, in that which convinced you, wait,
@@ -101,7 +100,7 @@ then was moved of the Lord to travel to Colerain and Londonderry;
 I also was moved to go with him.
 He published the day of the Lord in Colerain in the street, warning all to repent.
 We put up papers which we had written, in several places;
-one we put on the worshiphouse door; but the professors were highly offended,
+one we put on the worship house door; but the professors were highly offended,
 and banished us over the water, giving charge that no boat should bring us back.
 We travelled the road towards Londonderry,
 lodging that night in a cabin in the mountains; and next day came to Londonderry on foot,
@@ -225,8 +224,8 @@ At this the Lord moved me to rise, put on my clothes,
 and speak to the priest as he went to his worship,
 for they passed by the door of my room.
 I arose and put on my clothes, the Lord`'s power strengthening me:
-many of the chief of the Presbyterians came to
-accompany the priest to their place of worship.
+many of the chief of the Presbyterians came to accompany
+the priest to their place of worship.
 I stood in my room door, and as he went by I asked him, if he were a minister of Christ?
 He answered, yes.
 Then I asked,
@@ -243,8 +242,8 @@ I told him, I would arise and put on my clothes,
 for I felt the Lord`'s power strengthening me.
 
 So he went out of the room;
-and this was but an apology to get an opportunity for the priest and
-several of their elders and disputants to run me down,
+and this was but an apology to get an opportunity for the priest
+and several of their elders and disputants to run me down,
 and to glory over truth and Friends.
 I got up and dressed myself; and presently the priest, Colonel Kerr,
 Colonel Cunningham and a great many of their leading men came into the house,
@@ -255,7 +254,7 @@ and he was pleased to fill me with his spirit, being mouth and wisdom to me;
 so that the Lord`'s power, and the testimony of his blessed truth was over them;
 the priest was confounded in himself, and being restless,
 went out and came in several times.
-When the priest had done.
+When the priest had done,
 Colonel Cunningham began with me; he was a justice of the peace and a great disputant.
 We discoursed of several things, too tedious to mention the particulars;
 but the Lord`'s power foiled him, his mouth was stopped and he sat silent.

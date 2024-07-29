@@ -1,4 +1,4 @@
-== Chapter XIX
+== Chapter XIX.
 
 [.chapter-synopsis]
 * In 1700 he visits Munster, where he was much afflicted in body
@@ -54,7 +54,7 @@ thither many Friends and brethren came, where we parted after supplication to th
 whose love and life flowed in us.
 In two days`' time I came home to my house, the Lord`'s name be praised forevermore.
 
-Finding my body unable to endure long journies,
+Finding my body unable to endure long journeys,
 I kept to the service of meetings near home, as they fell in course;
 and about the beginning of the sixth month, 1700,
 went with George Rooke to a meeting at Ayrescourt, in Connaught,
@@ -161,26 +161,23 @@ but sent him three little books enclosed in a letter; a copy whereof follows, vi
 --
 
 [.letter-heading]
-For the Bishop of Clougher
+For The Bishop of Clougher
 
-[.salutation]
-Friend,
-
-Here are a few of the true Christian church of reformed Protestants,
+Friend, Here are a few of the true Christian church of reformed Protestants,
 upon a visit to our Christian friends and people, according to Christian duty,
 which our Saviour and his apostles taught and practised for our example to follow;
 and because of other service on this account,
-our time would not well admit to give you a visit,
-yet you being a ruling man in church affairs, we did not forget you,
-but as a token of our friendship have sent you here enclosed three little books,
-which may be for your profit, if rightly applied;
-which is all at present from your Christian friends,
+our time would not well admit to give thee a visit,
+yet thou being a ruling man in church affairs, we did not forget thee,
+but as a token of our friendship have sent thee here enclosed three little books,
+which may be for thy profit, if rightly applied;
+which is all at present from thy Christian friends,
 
 [.signed-section-signature]
-William Edmundson, George Rooke, Roger Roberts, Thomas Winsloe
+William Edmundson, George Rooke, Roger Roberts, Thomas Winsloe.
 
 [.signed-section-context-close]
-Auger, the 27th of the sixth month, 1700
+Auger, the 27th of the sixth month, 1700.
 
 --
 
@@ -208,8 +205,8 @@ to which several professors came, and the mystery of faith was largely opened to
 We had another meeting at a place called Tristiny,
 where several Friends met us from the Moat and Mountmellick;
 some noted persons and others also came to it,
-and the everlasting Gospel was largely preached to them in the
-demonstration of the spirit and power of the Lord.
+and the everlasting Gospel was largely preached to them
+in the demonstration of the spirit and power of the Lord.
 
 After this meeting we rode to Lismoiney, to Isaac Fuller`'s,
 and there parted in the sweet peace and unity of the Lord`'s blessed spirit,
@@ -258,7 +255,8 @@ That day I came to my son-in-law, William Fayle`'s, and next day to Ballynolert,
 where I stayed a meeting with Friends, and then came home.
 In the twelfth month our Province Meeting falling in course to be at the Moat,
 I rode thither--it held part of two days, and was an heavenly comfortable meeting;
-Friends were sweetly refreshed, and parted in the sense of God`'s love upon their spirits.
+Friends were sweetly refreshed,
+and parted in the sense of God`'s love upon their spirits.
 
 I kept to adjacent meetings as they came in course, not being well that winter.
 I felt a concern upon my spirit to visit some places in the north of England,

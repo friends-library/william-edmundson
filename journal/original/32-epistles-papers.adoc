@@ -1,7 +1,8 @@
 == Epistles and Papers of William Edmundson.
 
-[.letter-heading]
+[.blurb]
 An epistle to Friends, written in Jamaica.
+1671.
 
 [.salutation]
 Dear Friends,
@@ -13,15 +14,14 @@ Go not back into the liberty of the world, for that will bring you into bondage,
 and the old leaven will steal in by little and little,
 which leavens into the love of the world, draws from the love of God,
 hinders the incomes of his love in your souls,
-and draws the mind into great incumbrances, and sets the affections on things below,
+and draws the mind into great encumbrances, and sets the affections on things below,
 to mind earthly things more than heavenly.
 This becomes a yoke of bondage, and will make you look down into the earth,
-and keep you from looking up to the Lord, who saith.
-Look unto me.
+and keep you from looking up to the Lord, who saith, Look unto me.
 All stand fast and firm, therefore, in the freedom and liberty of the blessed truth.
 Let none lose the heavenly image,
 lest the earth and earthly image steal in and come over again;
-and like the grave swallow up, or like the thorns choak all that is good,
+and like the grave swallow up, or like the thorns choke all that is good,
 and so stain and spoil the beauty and comeliness,
 which you have in the everlasting truth.
 
@@ -33,7 +33,7 @@ and keep a diligent hand at the plough, that as the axe hath cut down the branch
 so the plough may tear up the roots, that the roots of corruption,
 earthly-mindedness and covetousness, which is the root of all evil,
 and the root of bitterness be not left unrooted out through neglect;
-and so those old roots spring up again, and choak the good,
+and so those old roots spring up again, and choke the good,
 and make the garden unfruitful to God.
 Must not his people be as a fruitful field,
 and as a pleasant garden to bring forth much fruit,
@@ -60,7 +60,7 @@ and tempting and grieving the Lord in the time of their trial.
 Also Lot`'s wife, who looked back, was set for an example.
 And are not we a kind of first fruits, and a generation whom God hath visited,
 and taken by the hand to redeem from the earth, and from the world,
-after a long night of apostacy and falling away?
+after a long night of apostasy and falling away?
 Let all take heed and be circumspect;
 for there is much upon my spirit concerning these things, hard to be uttered,
 and harder to be borne by some.
@@ -100,13 +100,13 @@ and not go after other lovers, or have the heart carried away with them,
 who will not stand instead, nor can they save in the needful time.
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
 [.signed-section-context-close]
 Jamaica, the 24th of the Twelfth month, 1671.
 
-[.letter-heading]
-Part of a Letter to His Wife
+[.blurb]
+=== Part of a Letter to His Wife.
 
 I have had several meetings here with Friends; the Lord`'s heavenly presence was with us,
 and many were well refreshed.
@@ -120,13 +120,16 @@ which will adorn and commend them before men,
 and in the end produce both peace and comfort.
 My dear love is to thee, as a true and faithful husband,
 which thou mayest assure thyself of, wherever I am, or however I may be disposed of;
-and my tender love is to all honest-hearted Friends, as if I named them, and rest,
+and my tender love is to all honest-hearted Friends, as if I named them, and rest
 
 [.signed-section-signature]
 Thy loving husband.
 
 [.blurb]
 === A letter of examination to all who have assumed the place of shepherds, and overseers of the flocks of people of all sorts in Christendom, to see if your accounts he ready, and what order the flocks are in: with a few lines of good news to the several flocks.
+
+[quote.scripture, , Ezek. 34:2-5]
+____
 
 Woe be to the shepherds that feed themselves; should not the shepherds feed the flocks?
 Ye eat the fat, and ye clothe you with the wool; ye kill them that are fed;
@@ -135,13 +138,19 @@ The diseased have ye not strengthened, neither have ye healed that which was sic
 neither have ye bound up that which was broken;
 neither have ye brought back that which was driven away;
 neither have ye sought that which was lost.
-But with force and cruelty have ye ruled them, and they were scattered.--Ezek. 34:2-5.
+But with force and cruelty have ye ruled them,
+and they were scattered.
+____
+
+[quote.scripture, , Ezek. 34:10]
+____
 
 Therefore I come against the shepherds, saith the Lord:
 I will require my sheep at their hands: and cause them to cease from feeding the sheep;
 neither shall the shepherds feed themselves any more;
 for I will deliver my sheep from their mouths,
-that they may not be meat for them.--Ezek. 34:10.
+that they may not be meat for them.
+____
 
 Come all you who have assumed the title of shepherds,
 and overseers of the flocks of people of all sorts in Christendom:
@@ -186,7 +195,7 @@ from seeing their salvation, and hearing the voice of the Lord Jesus?
 Are they not fallen into lameness of feet and hands?
 So that they cannot walk upright in the just man`'s path, which is a shining light,
 but stumble at it; nor can they handle the sword of the spirit, which is the word of God;
-by which they should war against the man of sin, and break down his strong holds.
+by which they should war against the man of sin, and break down his strongholds.
 
 And by drinking iniquity, sin and uncleanness,
 are not the flocks fallen into gross diseases; that there is no health in them,
@@ -282,7 +291,7 @@ where none shall make them afraid, preserving from the storm and from the heat.
 He will bring them to the well of clean water and fountain of living mercies,
 and cause them to wash and be clean, and to drink and be refreshed,
 that they may no longer be barren in fruits of holiness, but bring forth to God`'s glory;
-and anoint their eyes with eyesalve, and open their blind eyes.
+and anoint their eyes with eye-salve, and open their blind eyes.
 Then they will see you to be blind guides, and bless the Lord who redeems them from you.
 He also will give them precious ointment, even the virtue that goes out of Him,
 the good Physician, that will cure their spots and leprosy,
@@ -290,8 +299,8 @@ which ran over them whilst under your hands, and will purge their corruptions,
 and cure the diseases of sin, by which death hath had dominion.
 He will give them saving health, heal their backslidings,
 and open the mysteries of his kingdom to them; circumcising their hearts and ears,
-and causing them to understand those secrets
-which are hidden from the wisdom of this world,
+and causing them to understand those secrets which
+are hidden from the wisdom of this world,
 and bring them out of the many ways, into the one way, Christ Jesus the way to God;
 and out of the many sects, divisions and parties, which they are fallen into,
 and have been entangled with, in the cloudy and dark day that hath been over them,
@@ -305,12 +314,12 @@ He will bring them to the mountain of the house of the God of Jacob,
 and teach them of his ways, and watch over them.
 
 He will work a reformation in the nations, and bring them to the one true church,
-which is in God.
-founded and built upon the sure foundation that
-God hath laid as by the hand of a wise workman,
+which is in God,
+founded and built upon the sure foundation that God
+hath laid as by the hand of a wise workman,
 into the fellowship of the one body, whereof Christ Jesus is the head;
-who supplies the whole body with all things needful to
-build them up in their most precious faith,
+who supplies the whole body with all things needful
+to build them up in their most precious faith,
 which gives them victory over the man of sin, and renews into the true worship of God,
 in spirit and in truth, and a true conformity thereto,
 by his law of the spirit written in the heart.
@@ -345,7 +354,7 @@ The Lord will do this, to reform the nations,
 and bring them to uniformity and true conformity in his dear Son.
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
 [.signed-section-context-close]
 Jamaica, the 24th of the Twelfth month, 1672.
@@ -353,7 +362,7 @@ Jamaica, the 24th of the Twelfth month, 1672.
 [.blurb]
 === Part of a Letter written by William Edmundson, at Barbados, to Friends in Ireland; dated the 8th of the First month, 1675.
 
-[.salutation]
+[.offset]
 My love is to all dear Friends.
 
 It is not distance or length of time, tribulations or peril by sea or land, though many,
@@ -420,7 +429,7 @@ and the Lord hath given them blood to drink.
 It is said,
 that several of their priests in Boston colony had a meeting to inquire of the Lord,
 what the reason is that he is departed from them, and goes not forth with their armies;
-and their return is for many causes, but this the chief, viz:
+and their return is for many causes, but this the chief, viz.:
 Suffering the Quakers`' meetings among them.
 Thus persecution makes men blind, that they run headlong to their own destruction;
 but many of the people are dissatisfied,
@@ -432,7 +441,7 @@ that all the Indians in those parts of America will be in arms this next summer.
 
 It is likely to be troublesome and perilous travelling,
 but the Lord can preserve and deliver out of all, unto whose will I am given up,
-whether it be to suffer for his name, or to five or die for his truth, his will be done;
+whether it be to suffer for his name, or to live or die for his truth, his will be done;
 and I hope my life will not be dear to me to part with, if he see it good;
 and I do not doubt but he will give me strength, in the inward man,
 to bear what the outward man may suffer for his glorious Gospel.
@@ -453,16 +462,13 @@ which may attend that nation before many be aware, that we may all be ready,
 as Christ`'s freemen, to drink that cup which the Lord is pleased to put into our hands,
 for the trial of our faith, which is more precious than gold.
 My dear and true love is with you all, in the power of an endless life,
-wherein I am,
-
-[.signed-section-closing]
-Your friend and brother,
+wherein I am Your friend and brother,
 
 [.signed-section-signature]
 William Edmundson.
 
-[.letter-heading]
-Some Letters to His Wife
+[.blurb]
+=== Some Letters to His Wife
 
 [.salutation]
 My dear Wife,
@@ -490,16 +496,19 @@ and my prayers to the Lord are for them day and night, and for you all,
 that you may be preserved, and walk blameless in the Lord`'s truth,
 to his honour and our mutual comfort.
 My true and faithful love is with thee, and I desire thee,
-be tender of God`'s honour and truth`'s fame: So rest.
+be tender of God`'s honour and truth`'s fame: So rest,
 
 [.signed-section-closing]
 Thy faithful husband,
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
 [.signed-section-context-close]
 Charles-town, in Nevis, the 10th of the Second month, 1684.
+
+[.asterism]
+'''
 
 [.salutation]
 My dear Wife,
@@ -528,6 +537,9 @@ William Edmundson
 [.signed-section-context-close]
 Antigua, the 3rd of the Third month, 1684.
 
+[.asterism]
+'''
+
 [.salutation]
 Dear Wife,
 
@@ -547,7 +559,7 @@ and for which in measure I am set in defence, through good report and evil repor
 Therefore fulfill my desire, and it will greatly add to my comfort,
 and increase my joy in the Lord Jesus, which is desired before all visible things,
 by me thy faithful husband.
-I have been some considerable time at the Leeward Islands, viz: Antigua,
+I have been some considerable time at the Leeward Islands, viz.: Antigua,
 Nevis and Mountserrat, and being clear there, am now returned to this island,
 and my coming to these parts was in a needful and acceptable time, and not in vain,
 as many can bear witness.
@@ -558,8 +570,8 @@ and truly the Lord gives me ability of body beyond expectation.
 Everlasting praise to his name forever.
 
 My tender fatherly love is to our children,
-with continual care and fervent desires for
-their preservation out of the evil of the world,
+with continual care and fervent desires for their
+preservation out of the evil of the world,
 the snares of the devil and lusts of the flesh, which drown ungodly men in perdition.
 If they turn aside into these, it will wound my heart,
 and heap loads of sorrow and affliction upon my head.
@@ -572,18 +584,23 @@ This is according to the truth of my heart, as the Lord knows, who searcheth all
 My dear love is to all Friends, as if I named them,
 desiring they may be preserved blameless in the blessed truth; which,
 through the mercies and love of God, they have received and believed in;
-and that the propagation of it may be preferred
-before all in their hearts and affections,
+and that the propagation of it may be preferred before all in their hearts and affections,
 is the real desire and breathing to God on their behalf,
 of their ancient and true Friend, who cannot forget them when before the Lord.
 Once more my love is mentioned to thee, and I hope yet, in the Lord`'s time,
-to see thee again to our comfort, and remain, Thy true and faithful husband,
+to see thee again to our comfort, and remain,
+
+[.signed-section-closing]
+Thy true and faithful husband,
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
 [.signed-section-context-close]
 Barbados, the 4th day of the Fourth month, 1684.
+
+[.asterism]
+'''
 
 [.salutation]
 Dear Wife,
@@ -600,7 +617,7 @@ viz. Antigua, Nevis and Mountserrat, and laboured in truth`'s service about ten 
 and returned here, having had good service for the Lord and his people,
 which was well accepted, and I hope will not prove fruitless;
 the Lord`'s blessed presence and power are with me,
-to mine and many others great satisfaction and refreshment.
+to mine and many others`' great satisfaction and refreshment.
 Everlasting praises to his name forever.
 
 Through the tender mercies and endless love of God,
@@ -623,17 +640,17 @@ and corruptions of the flesh, with the lusts thereof;
 and that you may be enriched with the increase of God,
 through the blessed spirit of his Son,
 to his honour and your comfort both here and hereafter.
-This will be more joy and gladness to me, than the.
-increase of all the riches in the world.
+This will be more joy and gladness to me,
+than the increase of all the riches in the world.
 The God and Father of our Lord Jesus Christ, preserve you blameless,
 and cause his face to shine upon you,
-that in his light you may shine to his glory and honour, to whom all is due forever,
+that-in his light you may shine to his glory and honour, to whom all is due forever,
 Amen.
 My dear and true love is with thee, and to our children, and to all dear Friends,
 as if I named them.
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
 [.signed-section-context-close]
 Barbados, the 12th day of the Fifth month, 1684.
@@ -666,7 +683,7 @@ and to keep in the bounds and line of their own measure and gift of Christ,
 not going beyond it into another man`'s line.
 They are to be sound in faith and doctrine,
 and not to be entangled or cumbered with the affairs of this life,
-nor choaked nor surfeited with the riches of this world, nor laden as with thick clay,
+nor choked nor surfeited with the riches of this world, nor laden as with thick clay,
 to hinder their following Christ the Captain,
 who hath called and gifted them for his work and service in his vineyard,
 to labour in the Gospel and leave all for it,
@@ -721,8 +738,8 @@ for their preservation in faith and fellowship with himself, and one with anothe
 as members of one body,
 taking due care one of another for their preservation from all uncleanness, disorder,
 snares and entanglements that are in the world;
-and that all should be kept in the holy order
-and discipline of the Gospel of Christ Jesus.
+and that all should be kept in the holy order and
+discipline of the Gospel of Christ Jesus.
 Husbands to love their wives, and wives to love and reverence their husbands;
 children to honour their parents, and servants their masters; and widows to be chaste;
 also young men and maids to be sober-minded, and not to marry with unbelievers;
@@ -736,7 +753,7 @@ and ministry established by Christ in his church,
 under the new covenant; and to prefer his public service before private interest.
 
 The church that Christ espoused to himself, was adorned with her jewels,
-and beautiful through his comeliness; but when the apostacy and falling-away came,
+and beautiful through his comeliness; but when the apostasy and falling-away came,
 spoken of by Christ and his apostles, as seers of the times,
 the generality of Christians went from the heavenly gift, saving a small remnant,
 who kept to the gift of the holy Spirit,
@@ -747,10 +764,10 @@ Christ the man-child departed from them, and the witnesses were slain--yet unbur
 Then the whole building went to ruin, rents and breaches, and all in confusion,
 both in doctrine and government; every one sought their own wealth,
 preferment and ease in the world, the flesh and will; and the cross of Christ was lost.
-Ministers went to the letter, having gone from the heavenly gift of Christ`'s holy Spirit,
-and got into easy places; every one seeking their own gain and advantage,
-and cared for themselves, not for the flock,
-for which Christ had shed his precious blood.
+Ministers went to the letter,
+having gone from the heavenly gift of Christ`'s holy Spirit, and got into easy places;
+every one seeking their own gain and advantage, and cared for themselves,
+not for the flock, for which Christ had shed his precious blood.
 Self-interest prevailed, and the public spirit that stands for and seeks the public good,
 was lost; the churches were filled with confusion and errors,
 their overseers being blinded with the world and by the god of it,
@@ -795,16 +812,16 @@ and not to choose their own time, or ease in the flesh,
 or their will in the things of this world, which loads them as with clay,
 and hinders their service for the public,
 and is no example of self-denial to the flock of Christ;
-but savours of that spirit of apostacy, which is to be purged out, as the old leaven,
+but savours of that spirit of apostasy, which is to be purged out, as the old leaven,
 that so it may be seen we are in the footsteps of those who were given up in strength,
 understanding, time and substance,
 to spend and be spent in the service of the Lord and his people.
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
-[.letter-heading]
-Concerning Offerings to God, in Prayer and Supplication.
+[.blurb]
+=== Concerning Offerings to God, in Prayer and Supplication.
 
 The offerings that are acceptable to God, must be offered in righteousness,
 and with clean hearts and lips.
@@ -813,8 +830,8 @@ and his worship is in Spirit and in truth.
 Prayer, supplication and addresses to God, being a special part of his worship,
 must be performed in Spirit and in Truth, with a right understanding,
 seasoned with grace and with the word of God;
-even as the sacrifices under the old covenant
-were to be brought and offered in clean vessels,
+even as the sacrifices under the old covenant were
+to be brought and offered in clean vessels,
 seasoned with salt and with fire.
 So all, now under the new covenant,
 who approach so nigh to God as to offer an offering in prayer,
@@ -897,8 +914,7 @@ in this weighty matter of approaching nigh unto God with offerings,
 in prayer and supplication.
 
 Our Saviour also left us a good example, written for our learning.
-When he was under the sense of drinking that cup
-of sufferings for the sins of all mankind,
+When he was under the sense of drinking that cup of sufferings for the sins of all mankind,
 and of offering to God that great offering for their ransom, he prayed in these words,
 "`Father, if thou be willing, remove this cup from me, nevertheless not my will,
 but thine be done.`"
@@ -915,13 +931,13 @@ and dispensation of the new covenant.
 I have travelled under a deep sense and concern in this matter for some time.
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
 [.signed-section-context-close]
 The 12th of the First month, 1695.
 
 [.letter-heading]
-To His Son
+=== To His Son
 
 [.salutation]
 Son Tryal,
@@ -936,7 +952,8 @@ If thou and the rest take good heed unto this, it will add to my comfort;
 and if it should be otherwise it will add to my trouble, and heap sorrow upon my head.
 Therefore I desire that you may all be careful, in your conduct and conversation,
 for God`'s glory, your own good and credit, and my comfort.
-I am very well, considering my old age, and my travels and labours in the Lord`'s service,
+I am very well, considering my old age,
+and my travels and labours in the Lord`'s service,
 which hitherto the Lord hath given me strength and ability to perform,
 I hope to his honour and the good of many.
 
@@ -964,13 +981,13 @@ and will honour with many favours.
 This is what offers at present from a tender careful father.
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
 [.signed-section-context-close]
 West Chester, the 12th of the Fifth month, 1697.
 
 [.letter-heading]
-To His Son
+=== To His Son
 
 [.signed-section-context-open]
 York, the 7th of the Sixth month, 1697.
@@ -1025,11 +1042,10 @@ I have had many large and full meetings since George Rooke left me, in Cheshire,
 Lancashire and thus far in Yorkshire; many Friends came far to meetings,
 and the Lord`'s power answered their expectation,
 and many honest hearts are thankful and glad of this labour of love.
-I came this day to this city, and intend to stay their meeting tomorrow,
-being first-day, and then as the Lord enables, to go towards Burlington,
-Scarborough and Whitby; and when clear there,
-through Bishopric and Westmoreland into Cumberland, and if the Lord lengthen my time,
-then to see you again.
+I came this day to this city, and intend to stay their meeting tomorrow, being first-day,
+and then as the Lord enables, to go towards Burlington, Scarborough and Whitby;
+and when clear there, through Bishopric and Westmoreland into Cumberland,
+and if the Lord lengthen my time, then to see you again.
 
 I know not yet whether to ship at Liverpool, or go by land to Port-Patrick in Scotland.
 I hope in the Lord`'s strength to be in Cumberland in three weeks from this date.
@@ -1046,10 +1062,10 @@ and cast themselves upon his ordering providential power, that rules all things.
 It is safe to keep there out of all self-will and haste.
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
-[.letter-heading]
-A Postscript to an Epistle from Leinster Province Meeting.
+[.blurb]
+=== A Postscript to an Epistle from Leinster Province Meeting.
 
 When the Lord first called and gathered us to be a people,
 and opened the eyes of our understandings, we saw the exceeding sinfulness of sin,
@@ -1061,7 +1077,7 @@ and that many snares and temptations lay in them,
 with troubles and dangers of divers kinds, which we felt the load of,
 and that we could not carry them, and run the race the Lord had set before us,
 so cheerfully as to win the prize of our salvation.
-Wherefore our care was to cast off this great load and burden, viz:
+Wherefore our care was to cast off this great load and burden, viz.:
 great and gainful ways of getting riches, and to lessen our concerns therein,
 that we might be ready to answer Christ Jesus our Captain,
 who had called us to follow him in a spiritual warfare,
@@ -1070,8 +1086,8 @@ Then the things of this world were of small value with us, so that we might win 
 and the goodliest things thereof were not near us, so that we might be near the Lord;
 for the Lord`'s truth out-balanced all the world, even the most glorious part of it.
 
-Then great trading was a burden, and great concerns a great trouble;
-all needless things, fine houses, rich furniture and gaudy apparel, was an eye-sore.
+Then great trading was a burden, and great concerns a great trouble; all needless things,
+fine houses, rich furniture and gaudy apparel, was an eye-sore.
 Our eye being single to the Lord, and to the inshining of his light in our hearts,
 this gave us the sight of the knowledge of the glory of God, which so affected our minds,
 that it stained the glory of all earthly things; and they bore no mastery with us,
@@ -1103,8 +1119,8 @@ and the glory of them, which he despised.
 
 And of Moses, who refused the crown of Egypt,
 and to be called the son of Pharaoh`'s daughter;
-rather choosing affliction with the Lord`'s people--
-having a regard to the recompense of reward.
+rather choosing affliction with the Lord`'s people--having
+a regard to the recompense of reward.
 And the holy apostle writes to the church of Christ, both fathers,
 young men and children, advising against the love of the world, and the fashions thereof,
 which are working as the old leaven at this very time, to corrupt the heritage of God,
@@ -1123,10 +1139,10 @@ and refused for truth`'s sake, and the Lord hath accepted thereof as an offering
 and rewarded them with great comfort, to the praise of his great name.
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
-[.letter-heading]
-An Epistle to Friends in Barbados.
+[.blurb]
+=== An Epistle to Friends in Barbados.
 
 [.salutation]
 My dear Friends,
@@ -1191,8 +1207,7 @@ for the good of all.
 And the Lord blesseth their endeavours; so that in his spirit and power,
 which is strong and mighty with us,
 the authority of truth in church government is over all gainsayers;
-and the close order of the Gospel is over all
-loose libertine spirits and earthly worldlings;
+and the close order of the Gospel is over all loose libertine spirits and earthly worldlings;
 and truth prevails to the great satisfaction of all the sincerely concerned,
 and to the praise and honour of God.
 Amen.
@@ -1207,22 +1222,22 @@ such the Lord is honouring; everlasting praises to his name.
 My sincere love, in the unchangeable truth, is to you all, and my prayers to God for you.
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
 
-[.letter-heading]
-Concerning Men`'s and Women`'s Meetings.
+[.blurb]
+=== Concerning Men`'s and Women`'s Meetings.
 
 [.salutation]
 Dear Friends, Brethren and Sisters;
 
-Let us seriously consider the great and weighty
-service of our men`'s and women`'s meetings,
+Let us seriously consider the great and weighty service of our men`'s and women`'s meetings,
 to order and manage matters relating to Gospel order in the church of Christ,
 to the honour of God and his blessed unchangeable truth, made manifest to us,
 that we may be preserved faithful therein,
 and our lights may shine in the comely order thereof,
-by the good fruits brought forth among us, the Lord`'s peculiar people in this generation,
-as good examples to others, and as lights in the world.
+by the good fruits brought forth among us,
+the Lord`'s peculiar people in this generation, as good examples to others,
+and as lights in the world.
 Men`'s and women`'s meetings had need to have a special godly care,
 to see that all their members keep within the bounds of truth in the way of the Lord,
 to do justice and judgment, as the children and household of Abraham,
@@ -1250,8 +1265,8 @@ to keep them up in the spirit and power of.
 God, in which they were set up:
 testimonies whereof may be seen in many comfortable
 epistles written to men`'s and women`'s meetings,
-for all the members to keep their possession in
-the spirit and power of the Lord Jesus Christ.
+for all the members to keep their possession in the
+spirit and power of the Lord Jesus Christ.
 
 This is,
 and was the Lord`'s way in the settling of his church and people under his government.
@@ -1281,23 +1296,23 @@ as it was first delivered by Christ and his holy apostles;
 and to see that the testimony of Jesus was kept in all its branches,
 that the comely order of the Gospel might be shown forth in them to unbelievers,
 as lights in the world; that if any could not be won by the word and doctrine,
-the witness of God in them might be reached by the just
-and good examples of the churches of Christ.
+the witness of God in them might be reached by the
+just and good examples of the churches of Christ.
 
 And those qualified elders and pastors,
 whom the holy Ghost made overseers in the churches, were to feed them in due season,
-not of constraint, but of a willing mind; neither for selfish gain, but for truth`'s sake;
-neither as lords over God`'s heritage, but examples to the flock,
+not of constraint, but of a willing mind; neither for selfish gain,
+but for truth`'s sake; neither as lords over God`'s heritage, but examples to the flock,
 and to do justice and judgment without partiality; being faithful men,
 sanctified with truth, seasoned with the grace of God,
 and gifted with a good understanding in church affairs, relating to Gospel discipline;
 having their senses well exercised in the law of God, to know what was for truth,
 and what was against truth;
-and accordingly to suffer nothing to be ushered
-into the church of Christ that was against truth;
+and accordingly to suffer nothing to be ushered into
+the church of Christ that was against truth;
 but as doorkeepers in the Lord`'s house,
-to stand in and for truth`'s testimony against
-everything that would lessen the credit thereof.
+to stand in and for truth`'s testimony against everything
+that would lessen the credit thereof.
 
 But when the faith of Jesus was departed from, and self-interest got into the churches,
 then this godly care and holy discipline went to decay, and earthly wisdom,
@@ -1309,16 +1324,14 @@ to be kept up in the authority of his spirit and power,
 wherein neither riches nor policy must rule;
 but in all such meetings about the Lord`'s business, the Lord must be chairman,
 ruler and judge,
-whose good spirit of heavenly wisdom and divine
-counsel must rule in the hearts of his people,
+whose good spirit of heavenly wisdom and divine counsel
+must rule in the hearts of his people,
 who sit with him in that weighty service of church government;
 for it is in the gift of the Lord`'s good spirit,
 that the ability stands to perform that service as well as doctrine.
 If any undertake it otherwise, they miss their way, mar the work,
 and instead of being helpmeets in government, do many times cause trouble in the church.
-
-[.signed-section-closing]
 This from Your ancient friend and brother,
 
 [.signed-section-signature]
-William Edmundson
+William Edmundson.
