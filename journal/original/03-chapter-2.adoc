@@ -1,7 +1,7 @@
-== Section II.
+== Chapter II
 
 [.chapter-synopsis]
-* Several Difficult Exercises He Went Through, both Inwardly and Outwardly, Between His Convincement and the Setting Up of a Public Meeting at Lurgan
+* Reciting several difficult exercises he went through, both inwardly and outwardly, between his convincement and the setting up of a public meeting at Lurgan
 
 Whilst I was at sea, self reasoned strongly to save the duty on my goods,
 for I had an opportunity to do it,
@@ -115,7 +115,21 @@ and so cut off occasion from them that sought occasion against the truth and me.
 In those days to use the plain and proper speech, as thee and thou to a single person,
 and keeping on the hat, were strange things to people,
 and few could suffer them to be used; but would reflect in abusive words,
-and sometimes use blows, or throw stones.
+and sometimes use blows, or throw stones.^
+footnote:[Most modern English speakers are unaware that the words "`you`" and "`your`"
+were originally plural pronouns used only to address two or more people,
+whereas "`thee`" and "`thou`" were used to address one person.
+In the 1600`'s, it became fashionable
+(again, as a means of showing honor or flattery) to use the plural
+"`you`" or "`your`" in addressing people of higher social status,
+while "`thee`" and "`thou`" were reserved for servants, children,
+or people of lower social or economic position.
+Early Friends stuck to what was then considered "`plain language`"
+(using thee and thou to every single person, and you and your to two or more),
+rather than showing preferment by addressing certain individuals in the plural.
+These may seem like small matters to the 21st century reader,
+but it is remarkable how many thousands of Friends were insulted, beaten, imprisoned,
+and even hanged for refusing to conform to these outward customs.]
 Keeping to one price in selling goods, and to the first asking without abatement,
 was a great stumbling-block to most sorts of people,
 and made them stand at a distance from buying for some time,

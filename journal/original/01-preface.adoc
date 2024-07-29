@@ -1,6 +1,22 @@
-== Preface
+[quote.epigraph, , Ps. 37:37]
+____
+Mark the perfect man, and behold the upright,
+for the end of that man is peace.
+____
 
-[.salutation]
+[quote.epigraph, , Rev. 2:10]
+____
+Be faithful unto death, and I will give thee a crown of life.
+____
+
+[quote.epigraph, , Rev. 3:12]
+____
+Him that overcomes will I make a pillar in the temple of my God,
+and he shall go no more out.
+____
+
+== Preface.
+
 Friendly Reader,
 
 It hath pleased Almighty God, in the riches of his love and mercy,
@@ -110,7 +126,7 @@ were drawn to the earth by the dragon`'s tail.
 There was a great falling-away from the faith of Jesus,
 as had been foreseen and prophesied of by the holy apostles of the Lamb;
 the light of Zion was eclipsed and much veiled, or withdrawn for a season;
-and a general apostacy came over professed Christians.
+and a general apostasy came over professed Christians.
 The smoke of the bottomless pit arose, which darkened sun and air;
 and out of the smoke came locusts upon the earth, which tormented men.
 And the dragon was wroth with the woman, and made war with the remnant of her seed,
@@ -201,18 +217,18 @@ For the hour of God`'s judgments is come, both upon the beast, and all that wors
 and his wrath is revealed from heaven,
 against all unrighteousness and ungodliness of men, who hold a profession of the truth,
 or Christian religion, in an unrighteous conversation.
-For the night of apostacy is far spent, in these northern Islands especially,
+For the night of apostasy is far spent, in these northern Islands especially,
 and the day of the Lord at hand; the gross darkness,
 which hath covered the hearts of many, is in a great measure dispelled,
 and the true light again shineth,
-that makes manifest and discovers whatsoever is
-reprovable in religious matters and conversation,
+that makes manifest and discovers whatsoever is reprovable
+in religious matters and conversation,
 in which light all the nations of them that are saved must walk.
 
 And the Lord hath endued many with power from on high, and sent them forth,
 as he did his messengers formerly,
-to direct and turn people`'s minds from darkness to light, and from Satan`'s power to God,
-that they may receive forgiveness of sins,
+to direct and turn people`'s minds from darkness to light,
+and from Satan`'s power to God, that they may receive forgiveness of sins,
 and an inheritance among them that are sanctified by faith in Christ Jesus.
 Many have received the glad tidings of peace and salvation,
 freely preached to them by the Lord`'s ministers,
@@ -231,7 +247,7 @@ and the devil and his angels must be cast into the lake that burns forever.
 
 The Lamb`'s warfare is not for the destruction of men`'s lives, but of sin,
 the works of the devil in men, and the weapons of his followers are not carnal,
-but mighty through God, to the pulling down of strong holds, casting down imaginations,
+but mighty through God, to the pulling down of strongholds, casting down imaginations,
 and every high thing that exalteth itself against the knowledge of God,
 and bringing into captivity every thought to the obedience of Christ.
 Howbeit the Lamb, who is also the Lion of the tribe of Judah,
@@ -243,8 +259,8 @@ for they shall reign with him forever.
 
 Of this number, we have cause to believe, this worthy servant of the Lord,
 William Edmundson, author of the ensuing journal, was one.
-He was early visited with the inshinings of the
-glorious light of this Gospel-day in his own heart,
+He was early visited with the inshinings of the glorious
+light of this Gospel-day in his own heart,
 whereby his state was often opened to him,
 though for a time he did not understand what it was that so enlightened him.
 He was left an orphan when young and thereby exposed to hardship;
@@ -317,7 +333,7 @@ whom he had been instrumental in converting to God.
 
 He was in journeyings often, in perils by sea and land, and in the wilderness,
 both by wild beasts and bloody men, in the time of the Indian wars in America,
-and by robbers, or rapparees in this nation, in the time of the late calamity,
+and by robbers, or raparees in this nation, in the time of the late calamity,
 who burnt his house, and carried him away with his two sons,
 almost naked in the winter season, to kill them;
 but after much hard usage for several days, they were all three,
@@ -328,7 +344,7 @@ that opposed the testimony given him of the Lord, to bear for his name,
 and was not without affliction from some of his own offspring;
 yet out of all the Lord delivered and preserved him faithful to a good old age,
 through good report and evil report;
-so that near the conclusion of his time he could say,
+so that near the conclusion of his time he could say.
 The Lord was his song and his strength.
 He was strong and courageous in the Lord`'s work and service,
 even after a decay came upon the outward man, by reason of age and infirmities,
@@ -338,20 +354,21 @@ As he had an excellent gift for the ministry,
 he was also endued with a large understanding and gift for
 government and religious discipline in the church of Christ;
 and having a discerning spirit,
-stood firm in his zeal against those things that opposed the
-good order into which the Lord had gathered his people,
+stood firm in his zeal against those things that opposed
+the good order into which the Lord had gathered his people,
 and such as under fair pretence would open a gap for false liberty.
 The care of the churches was upon him, especially in this nation,
 where he lived and laboured many years, both in doctrine and discipline;
-and as an elder that ruled well, was esteemed highly by the faithful for his work`'s sake.
+and as an elder that ruled well,
+was esteemed highly by the faithful for his work`'s sake.
 Temperate he was in eating and drinking; decent and plain in apparel;
 in discourse weighty, being mostly concerning the things of God,
 tending to instruction and edification.
 His countenance and deportment were manly and grave,
 expressing a noble and religious disposition of mind; he was a loving husband;
 a careful and tender father; a firm friend and kind neighbour; given to hospitality;
-and though it was often his lot to be separated
-from his wife and children for the Gospel`'s sake,
+and though it was often his lot to be separated from
+his wife and children for the Gospel`'s sake,
 yet he ordered his affairs with discretion, that there might be no want in his family,
 either of commendable employment or necessaries.
 But his greater concern and labour was for the public good of the churches,
@@ -371,13 +388,13 @@ and whose memorial is and shall be blessed among the righteous,
 I refer the reader to a serious perusal of his following journal,
 and those testimonies given forth by faithful Friends and brethren concerning him,
 with sincere desire, that the blessing of God may so attend thy reading,
-as to excite thee to a faithful improvement of thy time and
-the gift of grace bestowed on thee through Christ Jesus,
+as to excite thee to a faithful improvement of thy time
+and the gift of grace bestowed on thee through Christ Jesus,
 that thy latter end may be peace, and thy future state eternal happiness.
 So in Christian love remain thy well-wishing friend,
 
 [.signed-section-signature]
-John Stoddart
+John Stoddart.
 
 [.signed-section-context-close]
 Dublin, the 26th of the Eighth month, 1714.

@@ -1,9 +1,9 @@
-== Chapter XXIII
+== Chapter XXIII.
 
 [.chapter-synopsis]
 * In 1702, he goes over to the Yearly Meeting at London
 * After his return, he visits Ulster in company with G. R.
-* Writes to the bishop of Kildare in behalf of Friends`' school-master at Mountmellick
+* Writes to the bishop of Kildare, in behalf of Friends`' school-master at Mountmellick
 
 The time of our National Meeting at Dublin approaching,
 I went thither in the third month, 1702,
@@ -71,7 +71,7 @@ also his power healed me of my illness,
 so that I was well and strong to answer the Lord`'s service.
 Having travelled therein about three hundred miles in about five weeks, I returned home.
 
-Before I took that journey,
+Before I took that journey.
 Friends`' schoolmaster, who taught their children at Mountmellick,
 had been cited several times to the bishop`'s court,
 and was likely to be excommunicated for teaching school without the bishop`'s license,
@@ -81,7 +81,7 @@ and sent it to him: viz.
 [.embedded-content-document.letter]
 --
 
-[.salutation]
+[.offset]
 May it please the bishop.
 
 This comes as an address in the behalf of a friend of mine,
@@ -96,9 +96,8 @@ and the issue must be a prison if not prevented by thee.
 
 Be pleased to hear a few sentences, though in a plain dress, yet true in themselves.
 We are Christians,
-and hold the faith and doctrine as delivered by
-our Saviour Christ Jesus and his apostles,
-before the apostacy and falling away,
+and hold the faith and doctrine as delivered by our Saviour Christ Jesus and his apostles,
+before the apostasy and falling away,
 according as it is left on record in holy Scriptures,
 and we are conscientious in our duty, as much as in us lies,
 to educate and train up our children accordingly.
@@ -114,7 +113,7 @@ and so obstruct better things, that tend to godliness and their salvation.
 
 This is our case plain and simple, which I desire thou may in moderation consider,
 and let it have thy favourable construction; and that we are Protestants,
-according to the faith and doctrine in the reformation from Popery and apostacy,
+according to the faith and doctrine in the reformation from Popery and apostasy,
 the truth whereof hath been tried on many accounts and occasions,
 that have happened since the Lord gathered us to be a people,
 and the same hath turned to the credit of our Protestant profession.
@@ -139,13 +138,13 @@ or if we die in prison upon the account of a tender conscience,
 it will be charged to him or them who are the cause of it;
 and I am sure it is the principle of the right church of Old England,
 who are not biased with self-interest, not to imprison people upon conscience,
-and much less a man for teaching children to read the
-holy Scriptures and good books tending to virtue.
+and much less a man for teaching children to read
+the holy Scriptures and good books tending to virtue.
 
 I have a secret belief, that thou hast no delight or inclination,
 that people should be cast into prison on such accounts,
-which makes me the more willing to let thee know the
-proceedings of thy officers in court against our said friend,
+which makes me the more willing to let thee know the proceedings
+of thy officers in court against our said friend,
 desiring thee to read this, and so leave it to thy discretion, and the issue to the Lord.
 
 [.postscript]

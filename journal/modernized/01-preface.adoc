@@ -1,4 +1,21 @@
-== Preface
+[quote.epigraph, , Ps. 37:37]
+____
+Mark the perfect man, and behold the upright,
+for the end of that man is peace.
+____
+
+[quote.epigraph, , Rev. 2:10]
+____
+Be faithful unto death, and I will give you a crown of life.
+____
+
+[quote.epigraph, , Rev. 3:12]
+____
+Him that overcomes will I make a pillar in the temple of my God,
+and he shall go no more out.
+____
+
+== Preface.
 
 [.salutation]
 Friendly Reader,
@@ -23,12 +40,12 @@ before the law was given from mount Sinai.
 And even in the time of the law, righteous men and prophets had faith therein,
 being inspired thereby; yet many of the Jews, who had the law,
 and were zealous in the outward performances thereof,
-not having a due regard to the Seed or Word nigh in their hearts, recommended by Moses,
+not having a due regard to the Seed or Word near in their hearts, recommended by Moses,
 which would have sanctified them, and made their hearts contrite before the Lord,
 rebelled against him who gave them of his good spirit to instruct them;
 and though zealous for the ceremonies, yet rejecting their immediate Monitor,
 they neglected the weightier matters of the law, and leaned upon outward observations;
-wherefore their offerings, sacrifices, sabbaths, set feasts and solemn assemblies,
+therefore their offerings, sacrifices, sabbaths, set feasts and solemn assemblies,
 although required and appointed in that dispensation,
 became loathsome and an abomination to the Lord;
 but such who in uprightness of heart observed the law, were accepted of God,
@@ -44,7 +61,7 @@ the Messiah and hope of Israel, was manifested in the flesh,
 whose day many prophets and righteous men desired to see, and could not,
 only by faith at a distance, by reason of death.
 
-Now was salvation brought nigh, the kingdom of heaven at hand,
+Now was salvation brought near, the kingdom of heaven at hand,
 and the glad tidings of the Gospel preached to the seed of Abraham;
 the glory of former dispensations began to wax dim, to such as beheld his glory,
 which excelled, even the glory of the only begotten of the Father,
@@ -86,7 +103,7 @@ to attend at his holy altar, in his temple not made with hands,
 and to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
 And the holy apostles, commissioned and endued with power from on high,
 were to teach all nations, baptizing them into the name of the Father, and of the Son,
-and of the holy Ghost, having assurance from Christ,
+and of the Holy Spirit, having assurance from Christ,
 of his being with them to the end of time.
 By their ministry, and others whom the Lord sent forth, many were converted to God,
 and added to the church, both of Jews, Greeks, and other nations;
@@ -204,33 +221,32 @@ For the night of apostasy is far spent, in these northern Islands especially,
 and the day of the Lord at hand; the gross darkness,
 which has covered the hearts of many, is in a great measure dispelled,
 and the true light again shines,
-that makes manifest and discovers whatsoever is
-reprovable in religious matters and conduct,
+that makes manifest and discovers whatever is reprovable in religious matters and conduct,
 in which light all the nations of them that are saved must walk.
 
 And the Lord has endued many with power from on high, and sent them forth,
 as he did his messengers formerly,
-to direct and turn people`'s minds from darkness to light, and from Satan`'s power to God,
-that they may receive forgiveness of sins,
+to direct and turn people`'s minds from darkness to light,
+and from Satan`'s power to God, that they may receive forgiveness of sins,
 and an inheritance among them that are sanctified by faith in Christ Jesus.
 Many have received the glad tidings of peace and salvation,
 freely preached to them by the Lord`'s ministers,
 in the authority of the Spirit and power of God,
 in this mighty day of the Lord which is again revealed,
-wherein he is come nigh to judgment,
+wherein he is come near to judgment,
 that the prince of this world may be cast out of the temple,
 in which he had exalted himself, and been worshipped as God.
 The kingdom of God is come, and coming more and more;
 and the power of his Christ exalting, in the hearts of many, whose right it is to reign;
 and though the devil and his angels war against him,
-and for a season be allowed to prevail in dark places of the earth,
+and for a season be permitted to prevail in dark places of the earth,
 so as to destroy the bodies of some of the followers of Christ;
 yet the Lamb and his followers shall have the victory,
 and the devil and his angels must be cast into the lake that burns forever.
 
 The Lamb`'s warfare is not for the destruction of men`'s lives, but of sin,
 the works of the devil in men, and the weapons of his followers are not carnal,
-but mighty through God, to the pulling down of strong holds, casting down imaginations,
+but mighty through God, to the pulling down of strongholds, casting down imaginations,
 and every high thing that exalts itself against the knowledge of God,
 and bringing into captivity every thought to the obedience of Christ.
 Howbeit the Lamb, who is also the Lion of the tribe of Judah,
@@ -242,8 +258,8 @@ for they shall reign with him forever.
 
 Of this number, we have cause to believe, this worthy servant of the Lord,
 William Edmundson, author of the ensuing journal, was one.
-He was early visited with the in-shinings of the
-glorious light of this Gospel-day in his own heart,
+He was early visited with the inshinings of the glorious
+light of this Gospel-day in his own heart,
 whereby his state was often opened to him,
 though for a time he did not understand what it was that so enlightened him.
 He was left an orphan when young and thereby exposed to hardship;
@@ -264,13 +280,13 @@ both he and his two relatives were convinced of the way of life.
 His understanding being opened by the truth,
 he then perceived that it was the Lord by his holy Spirit,
 who had been at work in his heart from his youth up.
-Wherefore he gave up to its manifestations, and loved the Lord`'s judgments,
+Therefore he gave up to its manifestations, and loved the Lord`'s judgments,
 because of sin, until he was purified, and prepared thereby to be a partaker of mercy,
 and a chosen vessel for the Lord`'s service.
 Returning again to Ireland, and being made willing to bear the cross of Christ,
 he soon met with various trials for the truth`'s sake, and had the greater exercise,
 because there was not then any of the people called
-Quakers in that nation to have conversation with.
+Quakers in that nation to have fellowship with.
 His behaviour and deportment so reached both his wife and brother,
 that they were soon convinced of the truth,
 and willing to meet with him in his own house, to worship God in spirit,
@@ -298,12 +314,12 @@ gave up cheerfully to follow the Lamb through many tribulations,
 which attended for his testimony`'s sake.
 
 He preached the Gospel of Christ freely in this nation,
-in which he lived and suffered persecution, being often imprisoned in many places;
+in which he lived and suffered persecution, being often imprisoned in various places;
 once about fourteen weeks in a close nasty dungeon, among felons and malefactors,
 where he was almost stifled; frequently stocked, reviled, abused,
 and his goods made havoc of by covetous men.
 He also went many times into England,
-labouring in the work of the Gospel in several parts, and three times into the Islands,
+labouring in the work of the Gospel in various parts, and three times into the Islands,
 or English plantations in America, going the warfare at his own cost,
 that the Gospel might not be chargeable.
 He endured hardship as a good soldier of the Lamb,
@@ -316,7 +332,7 @@ whom he had been instrumental in converting to God.
 
 He was in journeyings often, in perils by sea and land, and in the wilderness,
 both by wild beasts and bloody men, in the time of the Indian wars in America,
-and by robbers, or rapparees in this nation, in the time of the late calamity,
+and by robbers, or raparees in this nation, in the time of the late calamity,
 who burnt his house, and carried him away with his two sons,
 almost naked in the winter season, to kill them;
 but after much hard usage for several days, they were all three,
@@ -337,20 +353,21 @@ As he had an excellent gift for the ministry,
 he was also endued with a large understanding and gift for
 government and religious discipline in the church of Christ;
 and having a discerning spirit,
-stood firm in his zeal against those things that opposed the
-good order into which the Lord had gathered his people,
+stood firm in his zeal against those things that opposed
+the good order into which the Lord had gathered his people,
 and such as under fair pretence would open a gap for false liberty.
 The care of the churches was upon him, especially in this nation,
 where he lived and laboured many years, both in doctrine and discipline;
-and as an elder that ruled well, was esteemed highly by the faithful for his work`'s sake.
+and as an elder that ruled well,
+was esteemed highly by the faithful for his work`'s sake.
 Temperate he was in eating and drinking; decent and plain in apparel;
 in discourse weighty, being mostly concerning the things of God,
 tending to instruction and edification.
 His countenance and deportment were manly and grave,
 expressing a noble and religious disposition of mind; he was a loving husband;
 a careful and tender father; a firm friend and kind neighbour; given to hospitality;
-and though it was often his lot to be separated
-from his wife and children for the Gospel`'s sake,
+and though it was often his lot to be separated from
+his wife and children for the Gospel`'s sake,
 yet he ordered his affairs with discretion, that there might be no lack in his family,
 either of commendable employment or necessaries.
 But his greater concern and labour was for the public good of the churches,
@@ -370,13 +387,13 @@ and whose memorial is and shall be blessed among the righteous,
 I refer the reader to a serious perusal of his following journal,
 and those testimonies given forth by faithful Friends and brethren concerning him,
 with sincere desire, that the blessing of God may so attend your reading,
-as to excite you to a faithful improvement of your time and
-the gift of grace bestowed on you through Christ Jesus,
+as to excite you to a faithful improvement of your time
+and the gift of grace bestowed on you through Christ Jesus,
 that your latter end may be peace, and your future state eternal happiness.
 So in Christian love remain your well-wishing friend,
 
 [.signed-section-signature]
-John Stoddart
+John Stoddart.
 
 [.signed-section-context-close]
-Dublin, the 26th of the Eighth month, 1714
+Dublin, the 26th of the Eighth month, 1714.

@@ -1,8 +1,7 @@
 == Chapter XXX. A Supplement
 
 [.chapter-synopsis]
-* Several weighty expressions of William Edmundson on his death bed
-* A brief account of his death and burial
+* Containing several weighty expressions of William Edmundson on his death bed, with a brief account of his death and burial
 
 This worthy elder, after his return home, attended meetings thereaway,
 whilst of ability of body; also read over his journal and other papers,
@@ -61,8 +60,8 @@ and though the extremity of his distemper was great, yet he bore it patiently.
 Friends from several parts coming to see him,
 he frequently declared his zealous concern for truth`'s prosperity,
 and the promotion of its government in the churches of Christ,
-that not only those who were peculiarly concerned as
-elders in the discipline and oversight of the church,
+that not only those who were peculiarly concerned as elders
+in the discipline and oversight of the church,
 should be rightly qualified and gifted for that service--men of truth,
 fearing God and hating covetousness;
 but also that all who were admitted into close communion,
@@ -109,6 +108,3 @@ accompanied to the grave by many Friends and others from several parts,
 where divers testimonies were borne, from a lively sense of his manifold services,
 perils and labours of love, both in this nation and islands abroad;
 after which his body was decently interred, but his memorial lives among the righteous.
-
-[.asterism]
-'''
